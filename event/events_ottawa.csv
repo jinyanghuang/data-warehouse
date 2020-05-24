@@ -1,0 +1,1473 @@
+,city,year,month,day,hour,title,city_sector,address,intersection,postal_code
+0,Ottawa,2017,6,4,NA,Gutsy Walk,West Ottawa,"102 Greenview Drive, Britannia Park","102 Greenview Drive, Britannia Park",K2B 8J8
+1,Ottawa,2017,5,10,NA,Ottawa Children's Festival 2017,Downtown/Central,1 Vimy Place,1 Vimy Place,K1A 0M8
+2,Ottawa,2017,4,19,NA,The Fun House,Downtown/Central,400 Dalhousie Street,400 Dalhousie Street,K1N 9J9
+3,Ottawa,2017,5,3,NA,"j’adart, for the love or art!",West Ottawa,1233 Wellington St. West.,1233 Wellington St. West.,K1Y 0G7
+4,Ottawa,2017,6,4,NA,Mud Hero,Rural East,4565 Dunning Road,4565 Dunning Road,K4B 1J1
+5,Ottawa,2017,6,30,NA,SOCA BOAT 150,Hull Sector,895 Jacques Cartier,895 Jacques Cartier,J8T 2W3
+6,Ottawa,2017,4,6,NA,Verse,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+7,Ottawa,2017,5,10,NA,"Drop by Drop: A night of innovation, sustainability and film",South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+8,Ottawa,2017,4,29,NA,Dance - benefit for Canadian Guide Dogs,South Ottawa,6346 Deermeadow Drive,6346 Deermeadow Drive,K4P 1M9
+9,Ottawa,2018,5,5,NA,Hintonburg Fabric Flea Market ,Downtown/Central,1064 Wellington Street West,1064 Wellington Street West,K1Y 2Y3
+10,Ottawa,2017,4,28,NA,TD Nature Nocturne: The Life Aquatic,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+11,Ottawa,2017,4,20,NA,TACTICS,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+12,Ottawa,2017,4,30,NA,'Canada 150' Spring Concert 2017,Downtown/Central,2345 Alta Vista Drive,2345 Alta Vista Drive,K1H 7M6
+13,Ottawa,2017,6,17,NA,Red Bull Global Rallycross Ottawa,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+14,Ottawa,2017,4,29,NA,4th ODD Dance Class Marathon FUNdraiser,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+15,Ottawa,2017,5,11,NA,Series Dance 10 #27 - Chartier Danse and Jacqueline Ethier,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+16,Ottawa,2017,4,30,NA,Oceans of Harmony,West Ottawa,6 Epworth Avenue,6 Epworth Avenue,K2G 2L5
+17,Ottawa,2017,5,14,NA,Sing! Chantez! Shiru! Canadian Jewish Music: a 150th Celebration,West Ottawa,1400 Coldrey Avenue,1400 Coldrey Avenue,K1Z 7P9
+18,Ottawa,2017,4,13,NA,Shape and Place - Solo Exhibition of Rachael Wong,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+19,Ottawa,2017,4,12,NA,The GCTC Prologue,West Ottawa,1233 Wellington St. West.,1233 Wellington St. West.,K1Y 0G7
+20,Ottawa,2017,4,26,NA,The Spirit of Budo: The History of Japanese Martial Arts,Downtown/Central,255 Sussex Drive,255 Sussex Drive,K1N 9E6
+21,Ottawa,2017,4,12,NA,¡Fiesta Latina! - Latin American Film Festival Launch Party,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+22,Ottawa,2017,4,30,NA,Azucar! Open House!,Downtown/Central,111A Rideau Street,111A Rideau Street,K1N 5X1
+23,Ottawa,2017,4,26,NA,Weird (Chile) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+24,Ottawa,2017,4,27,NA,The Check (Panama) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+25,Ottawa,2017,4,28,NA,The Longest Distance (Venezuela) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+26,Ottawa,2017,4,29,NA,Four Cardinal Points (El Salvador) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+27,Ottawa,2017,4,29,NA,Boquerón (Bolivia) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+28,Ottawa,2017,4,15,NA,Carp Farmers' Market,Rural West,3790 Carp Road,3790 Carp Road,K0A 1L0
+29,Ottawa,2017,5,3,NA,Guilty Men (Colombia) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+30,Ottawa,2017,5,4,NA,Sugar Fields (Dominican Republic) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+31,Ottawa,2017,5,6,NA,La Chiperita (Paraguay) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+32,Ottawa,2017,5,5,NA,Dark Glasses (Cuba) Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+33,Ottawa,2017,5,18,NA,Veterans Showcase In the Tradition of Service,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+34,Ottawa,2017,5,10,NA,Mono Con Gallinas (Open Wound) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+35,Ottawa,2017,5,6,NA,The Distinguished Citizen (Argentina) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+36,Ottawa,2017,5,11,NA,Entonces Nosotros (About Us) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+37,Ottawa,2017,4,12,NA,Mini Book Sale,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+38,Ottawa,2017,4,11,NA,The Sound of the Muse theatrical concert series,West Ottawa,6400 Hazeldean Road,6400 Hazeldean Road,K2S 1S4
+39,Ottawa,2017,5,12,NA,Zanahoria (Operation Carrot) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+40,Ottawa,2017,4,29,NA,Time Frame (Brazil) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+41,Ottawa,2017,5,13,NA,Ayiti Mon Amour - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+42,Ottawa,2017,5,12,NA,The Vanished Elephant (Peru) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+43,Ottawa,2017,5,13,NA,Panamerican Machinery (Mexico) - Latin American Film Festival,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+44,Ottawa,2017,5,16,NA,Treasure Island,West Ottawa,1 Ron Maslin Way,1 Ron Maslin Way,K2V 1A7
+45,Ottawa,2017,5,2,NA,Mélange,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+46,Ottawa,2017,5,2,NA,Provender,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+47,Ottawa,2017,5,9,NA,Youth Infringement Theatre Festival 2017,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+48,Ottawa,2017,4,12,NA,Kelly Grace: Between Light and Shadow,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+49,Ottawa,2017,5,4,NA,Vernissage: José Luis Torres – De l'horizontal au vertical (From Horizontal to Vertical),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+50,Ottawa,2017,5,28,NA,Tour with the artist (in French): José Luis Torres – De l'horizontal au vertical (From Horizontal to Vertical),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+51,Ottawa,2017,5,4,NA,José Luis Torres – De l'horizontal au vertical (From Horizontal to Vertical),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+52,Ottawa,2017,4,21,NA,TIMEKODE: with Special Guest DJ Ruby Jane ,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+53,Ottawa,2017,4,28,NA,Dungeon 004,Downtown/Central,222 Slater Street,222 Slater Street,K1P 5H8
+54,Ottawa,2017,6,3,NA,Doors Open Ottawa 2017,Region Wide,-,-,K1A 0A4
+55,Ottawa,2017,6,2,NA,Westfest 2017,Downtown/Central,52 Stonehurst Avenue,52 Stonehurst Avenue,K1Y 1R4
+56,Ottawa,2017,9,13,NA,Itzhak Perlman’s Cinema Serenade,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+57,Ottawa,2017,9,16,NA,NAC Gala,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+58,Ottawa,2017,9,20,NA,Beethoven’s Ninth,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+59,Ottawa,2017,10,3,NA,Sibelius’s First Symphony,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+60,Ottawa,2017,10,5,NA,Lintu and Hewitt,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+61,Ottawa,2017,10,6,NA,Finland’s Rajaton In Concert,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+62,Ottawa,2017,10,8,NA,Twin Flames: Tracks in the Snow ,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+63,Ottawa,2017,10,11,NA,Finnish Legends,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+64,Ottawa,2017,10,12,NA,Lapland Chamber Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+65,Ottawa,2017,10,13,NA,Glenn Gould’s String Quartet,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+66,Ottawa,2017,10,14,NA,Shelley and Storgårds,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+67,Ottawa,2017,11,12,NA,Classy Brass!,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+68,Ottawa,2017,11,12,NA,China’s National Centre for the Performing Arts Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+69,Ottawa,2017,11,16,NA,An American in Paris - Live!,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+70,Ottawa,2017,11,23,NA,Zukerman and Mozart,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+71,Ottawa,2017,11,26,NA,Music for a Sunday Afternoon,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+72,Ottawa,2017,12,14,NA,Disney in Concert: A Dream is a Wish,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+73,Ottawa,2017,12,20,NA,Joshua Bell’s Christmas,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+74,Ottawa,2017,12,22,NA,Handel's Messiah,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+75,Ottawa,2018,1,10,NA,Linnebach and Bartók,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+76,Ottawa,2017,4,14,NA,Gregorian Chants for Meditation,Downtown/Central,100 Main Street,100 Main Street,K1S 1C2
+77,Ottawa,2018,1,13,NA,The Firebird,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+78,Ottawa,2018,1,14,NA,Rhythm and Dance,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+79,Ottawa,2018,1,17,NA,Storgårds Conducts Rachmaninoff,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+80,Ottawa,2018,1,21,NA,Music for a Sunday Afternoon,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+81,Ottawa,2018,1,31,NA,Alice Sara Ott Plays Grieg,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+82,Ottawa,2018,2,3,NA,Symphony Hack Lab,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+83,Ottawa,2018,2,8,NA,The Sounds of Simon and Garfunkel,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+84,Ottawa,2018,2,11,NA,Celebrate Africa!,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+85,Ottawa,2018,2,20,NA,Tales of the Arabian Nights,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+86,Ottawa,2018,2,27,NA,Lang Lang in Recital,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+87,Ottawa,2018,3,1,NA,Classical Marsalis,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+88,Ottawa,2018,3,4,NA,Music for a Sunday Afternoon - Branford Marsalis,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+89,Ottawa,2018,3,7,NA,A Baroque Chorus,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+90,Ottawa,2018,3,15,NA,The Doo Wop Project,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+91,Ottawa,2018,3,20,NA,Angela Hewitt’s Bach Odyssey,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+92,Ottawa,2018,3,22,NA,Shelley and Brahms’s Second,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+93,Ottawa,2018,4,4,NA,Brahms’s First Piano Concerto,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+94,Ottawa,2018,4,8,NA,Amazing Strings Around the World,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+95,Ottawa,2018,4,18,NA,Lortie Plays Mozart,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+96,Ottawa,2018,4,21,NA,Vivaldi and the Four Seasons,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+97,Ottawa,2018,4,26,NA,Best of Broadway,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+98,Ottawa,2018,5,2,NA,Russian Masterpieces,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+99,Ottawa,2018,5,6,NA,Music for a Sunday Afternoon - Alain Trudel,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+100,Ottawa,2018,5,7,NA,Toronto Symphony Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+101,Ottawa,2018,5,10,NA,Mozart à la Haydn,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+102,Ottawa,2018,5,17,NA,Let’s Dance,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+103,Ottawa,2018,5,23,NA,"Emanuel Ax’s ""Emperor Concerto""",Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+104,Ottawa,2018,5,25,NA,Vancouver Symphony Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+105,Ottawa,2018,5,26,NA,Superheroes,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+106,Ottawa,2017,4,18,NA,Urban Organic Gardening Seminars 2017,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+107,Ottawa,2017,5,13,NA,Celebration!!,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+108,Ottawa,2017,4,24,NA,Seven: A documentary play,East Ottawa,299 Montreal Rd.,299 Montreal Rd.,K1L 6B8
+109,Ottawa,2017,4,23,NA,Ottawa Welcomes the World (Turkish Days) and Children's Day ,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+110,Ottawa,2017,4,23,NA,Ottawa Welcomes the World (Turkish Days) and Children's Day ,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+111,Ottawa,2017,4,30,NA,The Split - Matinee Concert,NA,420 Riverside Drive,420 Riverside Drive,J0X 3G0
+112,Ottawa,2017,6,17,NA,Ottawa Craft Beer Run,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+113,Ottawa,2017,4,28,NA,Roddy Ellias and Lorne Lofsky concert,Gatineau Sector,80 Chemin Summer,80 Chemin Summer,J8V 3J3
+114,Ottawa,2017,5,13,NA,A Choral Celebration,East Ottawa,1111 Orleans Boulevard,1111 Orleans Boulevard,K1C 7C8
+115,Ottawa,2017,4,22,NA,National Capital Network of Sculptors,East Ottawa,210 Blackburn avenue,210 Blackburn avenue,K1N 8A8
+116,Ottawa,2017,5,25,NA,"Sister Act, The Musical",West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+117,Ottawa,2017,5,13,NA,Ste-Quequepart,Downtown/Central,454 King Edward Avenue,454 King Edward Avenue,K1N 7M8
+118,Ottawa,2017,5,13,NA,Moonfruits present Ste-Quequepart,Downtown/Central,454 King Edward Avenue,454 King Edward Avenue,K1N 7M8
+119,Ottawa,2017,4,23,NA,Canada’s Capital through the Years,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+120,Ottawa,2017,5,13,NA,Science Odyssey Funfest,Downtown/Central,580 Booth Street,580 Booth Street,K1A 0E4
+121,Ottawa,2017,5,8,NA,Trans-Canada:  Songs that Move Us,Downtown/Central,507 Bank Street,507 Bank Street,K2P 1Z5
+122,Ottawa,2017,5,27,NA,Strings!,Downtown/Central,1830 Kilborn Ave,1830 Kilborn Ave,K1H 6N4
+123,Ottawa,2017,5,19,NA,Heritage Trades: Can You Build It?,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+124,Ottawa,2017,5,30,NA,Artistic Explorations by Erika Farkas,West Ottawa,"1701 Woodroffe Avenue, Nepean Sportsplex","1701 Woodroffe Avenue, Nepean Sportsplex",K2G 1W2
+125,Ottawa,2017,6,3,NA,Make-A-Wish Rope For Hope,East Ottawa,200 Coventry Road,200 Coventry Road,K1K 4S3
+126,Ottawa,2017,6,2,NA,Kitchi Blanket Exercise,Downtown/Central,Wellington Street,Wellington Street,K1A 0A9
+127,Ottawa,2017,4,23,NA,"A Mix of Music for Recorders, Viols and Voices workshop",West Ottawa,630 Island Park Drive,630 Island Park Drive,K1Y 0B7
+128,Ottawa,2017,5,5,NA,Ciné-club « Mustang »,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+129,Ottawa,2017,5,19,NA,Ciné-club - Chocolat,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+130,Ottawa,2017,4,30,NA,Ottawa Youth Orchestra: Concertos Galore!,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+131,Ottawa,2017,5,6,NA,Kanata Symphony Orchestra Concert,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+132,Ottawa,2017,5,4,NA,VASA SENSUM: Kye-Yeon Son Retrospective Exhibition - Artist Talk and Vernissage,Downtown/Central,150 Elgin Street,150 Elgin Street,K2P 1L4
+133,Ottawa,2017,5,6,NA,Nature Awakens,West Ottawa,1500 Shea Rd.,1500 Shea Rd.,K2S 1B9
+134,Ottawa,2017,4,25,NA,The Jenn Hayward Show Live!,Downtown/Central,292 Elgin Street,292 Elgin Street,K2P 1M3
+135,Ottawa,2017,5,13,NA,Canada: Something to Sing About!,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+136,Ottawa,2017,5,2,NA,Late Bloomers,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+137,Ottawa,2017,10,1,NA,Raffi! 40 Years of Singable Songs!,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+138,Ottawa,2017,6,3,NA,Fire Fighter Day,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+139,Ottawa,2017,6,21,NA,The Ottawa Humane Society Garden Party,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+140,Ottawa,2017,5,16,NA,Signatures Series: Interview with Raymond Chrétien,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+141,Ottawa,2017,5,17,NA,"Running on Empty: Canada and the Indochinese Refugees, 1975–1980",Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+142,Ottawa,2017,4,29,NA,All About the Tempo,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+143,Ottawa,2017,5,26,NA,Venus & Adonis,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+144,Ottawa,2017,5,5,NA,Experience Mexico,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+145,Ottawa,2017,6,3,NA,100in1day Festival ,Region Wide,-,-,K1A 0A4
+146,Ottawa,2017,5,25,NA,Telfer 10 - Trivia Night,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+147,Ottawa,2017,5,5,NA,Canterbury High School Community Fun Fair,Downtown/Central,900 Canterbury Avenue,900 Canterbury Avenue,K1G 3A7
+148,Ottawa,2017,5,12,NA,Wakefield - La Pêche Writers Festival,Gatineau Park/Chelsea,-,-,J0X 3G0
+149,Ottawa,2017,5,5,NA,"Kye-Yeon Son, A Retrosp​e​ctive Jewellery Exhibition​",Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+150,Ottawa,2017,5,13,NA,Ottawa Dance Collective's Year-End Showcase:  In The News,Downtown/Central,133 Seraphin Marion,133 Seraphin Marion,K1N 6N5
+151,Ottawa,2017,5,28,NA,Conférence - Découverte du fonds Église catholique-chrétienne,Gatineau Sector,855 Boulevard de la Gappe,855 Boulevard de la Gappe,J8T 8H9
+152,Ottawa,2017,5,25,NA,Atelier-conférence: À la recherche d'actes notariés dans les bases de données,Gatineau Sector,855 Boulevard de la Gappe,855 Boulevard de la Gappe,J8T 8H9
+153,Ottawa,2017,5,19,NA,Walking Out of War book signing,Downtown/Central,2269 Riverside Drive,2269 Riverside Drive,K1H 1A1
+154,Ottawa,2017,6,7,NA,A Classical Treat,East Ottawa,39 Dufferin Road,39 Dufferin Road,K1M 2H3
+155,Ottawa,2017,5,6,NA,Singers Master Class,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+156,Ottawa,2017,5,13,NA,International Migratory Bird Day Event,South Ottawa,100 Brewer Way,100 Brewer Way,K1S 5T1
+157,Ottawa,2017,4,28,NA,Crystal Beshara - Songs of the Sea,Downtown/Central,505 Industrial Avenue,505 Industrial Avenue,K1G 0Z1
+158,Ottawa,2017,5,13,NA,Ballade to the Moon,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+159,Ottawa,2017,5,6,NA,Jay Dart: Meanwhile Back Over Yawnder,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+160,Ottawa,2017,5,26,NA,"Red, White and Gold - an Amazing Concert with Chantal Kreviazuk",Downtown/Central,55 Colonel By Drive,55 Colonel By Drive,K1N 9J2
+161,Ottawa,2017,6,3,NA,Red Trillium Studio Tour 2017,Rural West,-,-,K0A 2H0
+162,Ottawa,2017,5,14,NA,Mother’s Day Family Picnic,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7V1
+163,Ottawa,2017,5,27,NA,Saturday Explorers: Crafting in the Past,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+164,Ottawa,2017,6,8,NA,Lauren & Amanda Do It,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+165,Ottawa,2017,5,12,NA,Fork in the Road,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+166,Ottawa,2017,5,7,NA,Canadian Centennial Choir 50th anniversary concert ,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+167,Ottawa,2017,5,25,NA,Plus Que du Théâtre,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+168,Ottawa,2017,6,20,NA,Django Libre Concert for World Music Day,Downtown/Central,501 Old St. Patrick Street,501 Old St. Patrick Street,K1N 8R3
+169,Ottawa,2017,6,3,NA,City of OM,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+170,Ottawa,2017,5,13,NA,OWAA Celebrates Canada 150,West Ottawa,1500 Shea Rd.,1500 Shea Rd.,K2S 1B9
+171,Ottawa,2017,8,31,NA,Gatineau Hot Air Balloon Festival,Gatineau Sector,988 St-Louis Street,988 St-Louis Street,J8T 2S4
+172,Ottawa,2017,6,24,NA,Push For Your Tush - Ottawa,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+173,Ottawa,2017,5,18,NA,In the Room,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+174,Ottawa,2017,6,1,NA,PAF-FAS Open House                                                                                                                                                          and Artist Research and Development Venue launch ,Gatineau Park/Chelsea,42 Chemin Plunkett,42 Chemin Plunkett,J0X 1T0
+175,Ottawa,2017,5,28,NA,Heritage Power,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+176,Ottawa,2017,5,26,NA,Claudia Salguero in concert,Gatineau Sector,80 Chemin Summer,80 Chemin Summer,J8V 3J3
+177,Ottawa,2017,6,18,NA,Popular Mechanics,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+178,Ottawa,2017,5,19,NA,TIMEKODE: May Edition,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+179,Ottawa,2017,7,21,NA,Animals Rock 2017,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+180,Ottawa,2017,5,30,NA,Dominion,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+181,Ottawa,2017,5,24,NA,Ateliers de danse intergénérationnels ado et 60 ans +,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+182,Ottawa,2017,5,20,NA,Megan Jerome and the Together Ensemble,Gatineau Park/Chelsea,715 Chemin Riverside,715 Chemin Riverside,J0X 3G0
+183,Ottawa,2017,6,16,NA,Megan Jerome and the Together Ensemble,Downtown/Central,692 Somerset St W,692 Somerset St W,K1R 6P4
+184,Ottawa,2017,5,9,NA,WAVE,Downtown/Central,371 Preston Street,371 Preston Street,K1S 4M8
+185,Ottawa,2017,6,18,NA,Vintage Car Show,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+186,Ottawa,2017,6,4,NA,MELOG Latin Expo 2017,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+187,Ottawa,2017,5,31,NA,Ottawa Riverkeeper Gala,Downtown/Central,River Street,River Street,K1Y 2C4
+188,Ottawa,2017,6,3,NA,Songbird,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+189,Ottawa,2017,7,1,NA,Canada Day Tea,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+190,Ottawa,2017,8,20,NA,Vintage Motorcycle Show,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+191,Ottawa,2017,7,16,NA,Pride and Prejudice Garden Party,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+192,Ottawa,2017,5,19,NA,Owl at Home,West Ottawa,35 Stafford Road,35 Stafford Road,K2H 8V8
+193,Ottawa,2017,5,22,NA,Absolute 360,Downtown/Central,412 Preston Street,412 Preston Street,K1S 4M7
+194,Ottawa,2017,8,13,NA,Nursing a Grudge,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+195,Ottawa,2017,5,31,NA,Pints for Paws: A Night at the Speakeasy,Downtown/Central,14 Waller Street,14 Waller Street,K1N 9C4
+196,Ottawa,2017,5,20,NA,Capital Burlesque Expo - Saturday Spectacle Supreme,Downtown/Central,501 Old St. Patrick Street,501 Old St. Patrick Street,K1N 8R3
+197,Ottawa,2017,6,10,NA,Canada's Kitchen,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+198,Ottawa,2017,5,21,NA,Kaleigh Watts - Hung Me Dry Album Release Show,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+199,Ottawa,2017,5,26,NA,Mathieu Latreille,Downtown/Central,25 Bruyère Street,25 Bruyère Street,K1N 5C8
+200,Ottawa,2017,6,10,NA,So Long Seven,Hull Sector,432 Boulevard Alexandre-Taché,432 Boulevard Alexandre-Taché,J9A 1M7
+201,Ottawa,2017,5,25,NA,à la carte: The Food on Your Plate ,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+202,Ottawa,2017,6,3,NA,The Pop Shop All-Star Mega Fundraising Garage Sale and BBQ,West Ottawa,2 Fallview Court,2 Fallview Court,K2R 1G1
+203,Ottawa,2017,6,28,NA,Strawberry Soirée,Downtown/Central,100 Kent Street,100 Kent Street,K1P 5N9
+204,Ottawa,2017,6,18,NA,Legends & Folklore,Downtown/Central,439 Queen St,439 Queen St,K1R 5A6
+205,Ottawa,2017,5,27,NA,Ottawa Drone Day 2017,Downtown/Central,51 B Young Street,51 B Young Street,K1S 3H6
+206,Ottawa,2017,6,7,NA,One World Film: Tickling Giants Doc & Talk,Downtown/Central,325 Rideau Street,325 Rideau Street,K1N 5Y4
+207,Ottawa,2017,5,27,NA,Golden Triangle Art Fair,Downtown/Central,Elgin Street at Gilmour Street,Elgin Street at Gilmour Street,K2P 0N8
+208,Ottawa,2017,6,8,NA,Stepping Out for Dress for Success Ottawa,Downtown/Central,1001 Queen Elizabeth Dr.,1001 Queen Elizabeth Dr.,K1S 5K7
+209,Ottawa,2017,6,22,NA,Wapikwanew: Blossom (Floraison),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+210,Ottawa,2017,6,22,NA,Vernissage - Wapikwanew: Blossom (Floraison),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+211,Ottawa,2017,6,23,NA,Artist Talk - Wapikwanew: Blossom (Floraison),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+212,Ottawa,2017,7,9,NA,Panel Discussion - Wapikwanew: Blossom (Floraison),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+213,Ottawa,2017,7,15,NA,Pysanky making workshop - Wapikwanew: Blossom (Floraison),Region Wide,tba,tba,tba
+214,Ottawa,2017,6,25,NA,Playlist 150 Fun Ride,Downtown/Central,Scott Street,Scott Street,K1A 0K9
+215,Ottawa,2017,7,19,NA,Indigenous Walk tour and birch bark biting - Wapikwanew: Blossom (Floraison),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+216,Ottawa,2017,6,13,NA,Beneath ocean waves: The surprising colours of Canada’s western coast,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+217,Ottawa,2017,5,31,NA,Rights & responsibility: public forum on environmental rights in Canada,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K2P 2L7
+218,Ottawa,2017,6,29,NA,Futur Composé: New works by Anne-Sophie Vallée,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+219,Ottawa,2017,5,27,NA,"The Powergoats, Jasper Bridge, & Jillian Kerr",NA,420 Riverside Drive,420 Riverside Drive,J0X 3G0
+220,Ottawa,2017,6,10,NA,Songs With and Without Keys featuring Gretchen Martin,Downtown/Central,330 Kent Street,330 Kent Street,K2P 2A6
+221,Ottawa,2017,6,10,NA,MOZAIK,Downtown/Central,261 Montreal Road,261 Montreal Road,K1L 6C4
+222,Ottawa,2017,6,21,NA,Just Voices - Solstice Concert ,Downtown/Central,950 Bank St.,950 Bank St.,K1S 5G6
+223,Ottawa,2017,6,21,NA,Canada Goose Arctic Gallery,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+224,Ottawa,2017,6,2,NA,La Parade du Crépuscule - Extraits et Présentation,Gatineau Park/Chelsea,42 Chemin Plunkett,42 Chemin Plunkett,J0X 1T0
+225,Ottawa,2017,6,16,NA,Hope Air Fundraising Concert,East Ottawa,1211 Lemieux St.,1211 Lemieux St.,K1J 7T1
+226,Ottawa,2017,6,4,NA,EmbraceYou: Movie Screening + Panel Discussion,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+227,Ottawa,2017,8,19,NA,Songs In A Minor - Alicia Keys - cancelled,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+228,Ottawa,2017,6,10,NA,Westboro Trunk Show ,West Ottawa,317 McRae Ave,317 McRae Ave,K1Z 0C2
+229,Ottawa,2017,6,17,NA,Gatineau Riverfest,Gatineau Park/Chelsea,309 Chemin de la Rivière,309 Chemin de la Rivière,J9B 2M6
+230,Ottawa,2017,7,1,NA,Canada Day,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+231,Ottawa,2017,8,13,NA,Summer on the River,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+232,Ottawa,2017,6,3,NA,Open House: Ottawa Valley Wild Bird Care Centre,West Ottawa,734 Moodie Dr,734 Moodie Dr,K2R 1H4
+233,Ottawa,2017,9,16,NA,Epic Walk,West Ottawa,98 Woodridge Crescent,98 Woodridge Crescent,K2B 7S9
+234,Ottawa,2017,6,9,NA,"Future States, David in the Dark and mal/aimé",Downtown/Central,692 Somerset St W,692 Somerset St W,K1R 6P4
+235,Ottawa,2017,6,19,NA,Ancestry Day,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 3G7
+236,Ottawa,2017,6,23,NA,Leila Forouhar Live in Concert ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+237,Ottawa,2017,6,30,NA,Canadian Camera Conference - Canada Wild ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+238,Ottawa,2017,7,14,NA,Abhijeet,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+239,Ottawa,2017,7,21,NA,One Ok Rock,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+240,Ottawa,2017,9,1,NA,The Minimalists,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+241,Ottawa,2017,9,20,NA,Simple Plan ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+242,Ottawa,2017,9,29,NA,Ballet Wild Grass,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+243,Ottawa,2017,11,10,NA,Play Your Part – Songwriters’ Circle ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+244,Ottawa,2017,6,4,NA,Gatineau - Ottawa Reptile Expo,Gatineau Sector,111 Rue Bellehumeur,111 Rue Bellehumeur,J8T 6K5
+245,Ottawa,2017,6,3,NA,House of Paint - Jasmine Community Arts Festival,East Ottawa,2040 Jasmine Crescent,2040 Jasmine Crescent,K1J 8K5
+246,Ottawa,2017,6,4,NA,Odyssey Theatre - Spreading Roots,Rural West,1517 Stittsville Main Street,1517 Stittsville Main Street,K2S 1P1
+247,Ottawa,2017,6,2,NA,Estival-Celebrating Summer,Gatineau Park/Chelsea,783 Route 105,783 Route 105,J9B 1P1
+248,Ottawa,2017,6,8,NA,Do You Want to Live Forever?,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+249,Ottawa,2017,6,17,NA,Kitchissippi Flotilla: Ottawa Rowing Club 150th Anniversary Celebration,Downtown/Central,10 Lady Grey Drive,10 Lady Grey Drive,K1A 0G2
+250,Ottawa,2017,7,1,NA,Canada Day at the Ottawa Rowing Club,Downtown/Central,10 Lady Grey Drive,10 Lady Grey Drive,K1A 0G2
+251,Ottawa,2017,6,30,NA,Canada Day in the National Capital Region,Region Wide,-,-,K1A 0A4
+252,Ottawa,2017,7,2,NA,WE Day Canada,Downtown/Central,Wellington Street,Wellington Street,K1A 0A9
+253,Ottawa,2017,6,17,NA,"Trivia Night, 75 feet underground!",Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+254,Ottawa,2017,6,16,NA,TIMEKODE: June Edition,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+255,Ottawa,2017,8,5,NA,Black & Bluegrass Fest 2017,Region Wide,-,-,K1A 0A4
+256,Ottawa,2017,6,18,NA,Father's Day Flashback ,Rural West,2064 Huntley Road,2064 Huntley Road,K2S 1B8
+257,Ottawa,2017,7,1,NA,Opening of the Canadian History Hall,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+258,Ottawa,2017,6,26,NA,Flower Nite,West Ottawa,3393 Riverside Drive,3393 Riverside Drive,K1V 8P3
+259,Ottawa,2017,6,20,NA,Flower Nite,East Ottawa,1980 Ogilvie Road,1980 Ogilvie Road,K1J 9L3
+260,Ottawa,2017,6,20,NA, Flower Nite,Downtown/Central,683 Bank Street,683 Bank Street,K1S 3T8
+261,Ottawa,2017,6,15,NA, Flower Nite,Downtown/Central,1008 Wellington St W,1008 Wellington St W,K1Y 2X9
+262,Ottawa,2017,6,21,NA,  Flower Nite,West Ottawa,1374 Baseline Road,1374 Baseline Road,K2C 0A9
+263,Ottawa,2017,7,21,NA,Canadian Stone Carving Festival,Downtown/Central,35 O'Connor St,35 O'Connor St,K1P 5M4
+264,Ottawa,2017,6,22,NA, Flower Nite,Downtown/Central,1008 Wellington St W,1008 Wellington St W,K1Y 2X9
+265,Ottawa,2017,7,8,NA,Tea on the Verandah,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+266,Ottawa,2017,6,9,NA,"Official Guided tours: Two Prime Ministers, One Home",Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+267,Ottawa,2017,7,1,NA,White Glove Tour,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+268,Ottawa,2017,7,8,NA,Historic Places Day,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+269,Ottawa,2017,7,1,NA,Canada Day and Laurier House,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+270,Ottawa,2017,7,1,NA,UNISONG Choral Festival,Downtown/Central,55 Colonel By Drive,55 Colonel By Drive,K1N 9J2
+271,Ottawa,2017,6,17,NA,A Canadian Celebration,Downtown/Central,109-A Fourth Avenue,109-A Fourth Avenue,K1S 2L3
+272,Ottawa,2017,6,16,NA,Ottawa Italian Festival 2017,Downtown/Central,Preston St.,Preston St.,K1S 4N4
+273,Ottawa,2017,10,22,NA,We are Survivors,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+274,Ottawa,2017,7,4,NA,Algonquin Park: Natural Histories,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+275,Ottawa,2017,6,12,NA,Hotter Than Potter,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+276,Ottawa,2017,7,2,NA,Canada 150 Maker Market,Downtown/Central,55 Colonel By Drive,55 Colonel By Drive,K1N 9J2
+277,Ottawa,2017,6,22,NA,Tim Hortons Ottawa Dragon Boat Festival,South Ottawa,2960 Riverside Drive,2960 Riverside Drive,K1V 8w6
+278,Ottawa,2017,6,17,NA,Break Free 5K,West Ottawa,1369 Carling Avenue,1369 Carling Avenue,K2H 1B8
+279,Ottawa,2017,7,1,NA,Canada Day in the Park: 150 Years in Pineview,East Ottawa,1485 Meadowbrook Road,1485 Meadowbrook Road,K1B 1C3
+280,Ottawa,2017,7,1,NA,Riverside South Canada Day Celebrations 2017,East Ottawa,660 River Road,660 River Road,K1V 1G1
+281,Ottawa,2017,7,15,NA,Canada Parks Day,Gatineau Park/Chelsea,33 Scott Road,33 Scott Road,NA
+282,Ottawa,2017,6,24,NA,Peanut Butter & Dragon Book Signing,West Ottawa,400 Earl Grey Drive,400 Earl Grey Drive,K2T 1B9
+283,Ottawa,2017,6,15,NA,Synaesthesia - Rob Snikkar - Paintings of music in its from and feeling,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+284,Ottawa,2017,7,1,NA,Canada Day 2017 in Stittsville,Rural West,5870 Abbott St E,5870 Abbott St E,K2S 1X4
+285,Ottawa,2017,6,23,NA,RCMP Canadian Sunset Ceremonies - Canada 150 edition,Downtown/Central,1 Sandridge Road,1 Sandridge Road,K1G 3J2
+286,Ottawa,2017,8,11,NA,Festival of India,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+287,Ottawa,2017,7,29,NA,Jannat Performing Arts - Insight: A Reflective Experience ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+288,Ottawa,2017,9,30,NA,Capital City Chorus 60th Anniversary Show ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+289,Ottawa,2017,7,6,NA,Strawberry Social,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+290,Ottawa,2017,8,11,NA,SouthAsianFest,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+291,Ottawa,2017,6,24,NA,Sharing Dance,Downtown/Central,200 Crichton Street,200 Crichton Street,K1M 1W2
+292,Ottawa,2017,6,24,NA,Unveiling The Wisdom of The Trees,West Ottawa,2500 Campeau,2500 Campeau,K2K 2W3
+293,Ottawa,2017,6,24,NA,Jillian Kerr & friends EP Release Party ,Downtown/Central,360 Elgin Street,360 Elgin Street,K2P 1M8
+294,Ottawa,2017,6,30,NA,AquaVan 150 Canada Day Celebration,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+295,Ottawa,2017,6,24,NA,Constellation Francophone - Ouvrons les portes,Downtown/Central,1 Rideau Street,1 Rideau Street,K1N 8S7
+296,Ottawa,2017,8,3,NA,B in the Park,Downtown/Central,1 Rideau Street,1 Rideau Street,K1N 8S7
+297,Ottawa,2017,10,12,NA,An Evening with Steve Patterson,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+298,Ottawa,2017,10,14,NA,Angélie’s Shoes,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+299,Ottawa,2017,11,10,NA,Kim Mitchell,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+300,Ottawa,2017,11,12,NA,Café Classico - The Voice of the Violin,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+301,Ottawa,2017,7,12,NA,Fête de plage,Aylmer Sector,"1, rue Front","1, rue Front",J9H 5E6
+302,Ottawa,2017,7,19,NA,Fête de plage,Hull Sector,"361, de Lucerne Blvd.","361, de Lucerne Blvd.",J9H 7K9
+303,Ottawa,2017,11,25,NA,Baz'Art - Annual Holiday Arts Market,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+304,Ottawa,2017,11,25,NA,Guess How Much I Love You and I Love My Little Storybook,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+305,Ottawa,2017,7,1,NA,Canada Day at the Canadian War Museum,Downtown/Central,1 Vimy Place,1 Vimy Place,K0A 0M8
+306,Ottawa,2017,7,1,NA,Canada Day at the National Gallery of Canada,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+307,Ottawa,2017,7,1,NA,Canada Day at the Supreme Court of Canada,Downtown/Central,301 Wellington Street,301 Wellington Street,K1A 0J1
+308,Ottawa,2017,7,1,NA,Canada Day at the National Arts Centre,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+309,Ottawa,2017,7,1,NA,Canada Day at the Canada Agriculture and Food Museum,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+310,Ottawa,2017,7,1,NA,Canada Day at the Canadian Museum of Nature,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+311,Ottawa,2017,7,2,NA,Nipiit Katittut Voices United in Concert,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+312,Ottawa,2017,7,1,NA,Canada Day - The new Bank of Canada Museum,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+313,Ottawa,2017,7,1,NA,Canada Day Celebrations,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+314,Ottawa,2017,11,30,NA,Sultans of String - Christmas Caravan,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+315,Ottawa,2017,12,2,NA,Classic Albums Live: Rush - 2112,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+316,Ottawa,2017,7,5,NA,Romeo & Juliet ,Downtown/Central,Corner of Bank St. and Clemow Ave.,Corner of Bank St. and Clemow Ave.,K1S 3T8
+317,Ottawa,2017,7,6,NA,Romeo & Juliet,Downtown/Central,25 Range Road,25 Range Road,K1N 8J7
+318,Ottawa,2017,7,7,NA,Romeo & Juliet ,West Ottawa,2805 Carling Avenue,2805 Carling Avenue,NA
+319,Ottawa,2017,7,12,NA,Romeo & Juliet ,Downtown/Central,1 Windsor Avenue,1 Windsor Avenue,K1S 0W3
+320,Ottawa,2017,7,21,NA,Romeo & Juliet ,Downtown/Central,101 Duhamel St,101 Duhamel St,K1Y 1T8
+321,Ottawa,2017,7,7,NA,Ottawa Sound Wave Hosted by @HWayz,Downtown/Central,34 Clarence Street,34 Clarence Street,K1N 5P3
+322,Ottawa,2017,7,8,NA,Canada - The Land,West Ottawa,1500 Shea Rd.,1500 Shea Rd.,K2S 1B9
+323,Ottawa,2017,7,29,NA,Educate and Feed Communities Foundation BBQ,South Ottawa,Vincent Massey Park,Vincent Massey Park,K1S 5B7
+324,Ottawa,2017,7,23,NA,CBET Sixth Annual BBQ Picnic and Family Fun Day ,West Ottawa,1369 Carling Avenue,1369 Carling Avenue,K2H 1B8
+325,Ottawa,2017,7,14,NA,Ottawa Rhythm Festival 2017,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+326,Ottawa,2017,7,3,NA,A Midsummer Night's Dream,Region Wide,-,-,K1A 0A4
+327,Ottawa,2017,8,12,NA,Third Annual West End Food Truck Rally,West Ottawa,3861 Old Richmond Road,3861 Old Richmond Road,K2H 5C1
+328,Ottawa,2017,8,3,NA,Ottawa International BuskerFest 2017,Downtown/Central,Sparks Street,Sparks Street,K1P 5M4
+329,Ottawa,2017,7,16,NA,Ice Cream Festival ,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+330,Ottawa,2017,9,9,NA,Parkinson SuperWalk,West Ottawa,"102 Greenview Drive, Britannia Park","102 Greenview Drive, Britannia Park",K2B 8J8
+331,Ottawa,2017,7,14,NA,Youth Music and Dance Festival,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+332,Ottawa,2017,7,25,NA,Brewmaster's Dinner,Downtown/Central,975 Bank Street,975 Bank Street,K1S 3W7
+333,Ottawa,2017,7,7,NA,Kabeshinàn Minitig Pavillion Exhibit,Downtown/Central,2 Timberslide Street,2 Timberslide Street,K1R 6K4
+334,Ottawa,2017,7,9,NA,Presentation and Book signing by Sculptor Ruth Abernethy,West Ottawa,98 Richmond Road,98 Richmond Road,K1Z 0B2
+335,Ottawa,2017,10,24,NA,BIAOV Fall Fundraiser,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 3G7
+336,Ottawa,2017,7,19,NA,Claire Desjardins: summercrush,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+337,Ottawa,2017,7,12,NA,Canada: Who Do We Think We Are?,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+338,Ottawa,2017,7,13,NA,Romeo & Juliet,West Ottawa,269 Clare Street,269 Clare Street,K1Z 7E3
+339,Ottawa,2017,7,14,NA,Romeo & Juliet,Downtown/Central,25 Range Road,25 Range Road,K1N 8J7
+340,Ottawa,2017,7,15,NA,Romeo & Juliet,South Ottawa,Dickinson Street,Dickinson Street,K4M 1A2
+341,Ottawa,2017,9,15,NA,Ciné-club - Ce sentiment de l'été,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+342,Ottawa,2017,9,27,NA,"Conteuse - Tristan et Iseut, Conté par Stéphanie Beneteau",Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+343,Ottawa,2017,9,29,NA,"Ciné-club - Moi, Nojoom, dix ans, divorcée",Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+344,Ottawa,2017,10,13,NA,"Ciné-club - Fidelio, L'odyssée d'Alice",Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+345,Ottawa,2017,10,27,NA,"Ciné-club - Demain, tout commence",Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+346,Ottawa,2017,9,24,NA,The World Remembers,Downtown/Central,2 Rideau Street,2 Rideau Street,K1N 8X5
+347,Ottawa,2017,7,27,NA,Moonfruits Live,Downtown/Central,tba,tba,K1Y 2Y2
+348,Ottawa,2017,9,9,NA,CineMusiq 'Octane' with Chitra - Music for Cause ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+349,Ottawa,2017,10,14,NA,Art in the Dark,Rural East,982 North Russell Road,982 North Russell Road,K4R 1G7
+350,Ottawa,2017,10,21,NA,Nhung Tinh Khuc Vuot Thoi Gian,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+351,Ottawa,2017,8,10,NA,University of Ottawa MFA candidates - Thesis exhibitions - Kizi Spielmann Rose - Pulse,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+352,Ottawa,2017,8,24,NA,University of Ottawa MFA candidates - Thesis exhibitions - Jonathan Théroux – Tour,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+353,Ottawa,2017,7,30,NA,Shakespeare in the Park: Romeo & Juliet,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+354,Ottawa,2017,7,20,NA,Romeo & Juliet,South Ottawa,134 Begonia Avenue,134 Begonia Avenue,K1H 6E4
+355,Ottawa,2017,7,21,NA,Romeo & Juliet,Downtown/Central,101 Duhamel St,101 Duhamel St,K1Y 1T8
+356,Ottawa,2017,7,22,NA,Romeo & Juliet,East Ottawa,660 River Road,660 River Road,K1V 1G1
+357,Ottawa,2017,7,28,NA,Romeo & Juliet,Downtown/Central,33 Quill Street,33 Quill Street,K1K 4E7
+358,Ottawa,2017,8,20,NA,Trinbago Day,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+359,Ottawa,2017,8,12,NA,Art in the Park,Downtown/Central,435 Bronson Avenue,435 Bronson Avenue,K1R 6J6
+360,Ottawa,2017,9,16,NA,Wings for Clowns,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+361,Ottawa,2017,9,2,NA,2017 Ottawa Pinball and Gameroom Show,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+362,Ottawa,2017,8,18,NA,Rita Tabback in concert,Gatineau Sector,80 Chemin Summer,80 Chemin Summer,J8V 3J3
+363,Ottawa,2017,8,1,NA,Just About Everything,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+364,Ottawa,2017,7,25,NA,Senior Men's Pan Am Cup - Volleyball ,Hull Sector,125 Carillon Street,125 Carillon Street,J8X 2P8
+365,Ottawa,2018,2,20,NA,Heritage Day,Downtown/Central,"110, Laurier street West","110, Laurier street West",K1P 1J1
+366,Ottawa,2017,8,19,NA,Snaggle featuring Brownman Ali,Downtown/Central,"135 1/2, Besserer Street","135 1/2, Besserer Street",K1N 6A7
+367,Ottawa,2017,8,12,NA,"BFGs, Lindbergh Babies and Destroyer Scence",Downtown/Central,33 York St.,33 York St.,K1N5X8
+368,Ottawa,2017,8,18,NA,Double Bill - Rideshares & Rope Swings and In Waking Life,Downtown/Central,738 Bank Street,738 Bank Street,K1S 3V4
+369,Ottawa,2017,9,9,NA,Beechwood East Feast,Downtown/Central,135 Barrette Street,135 Barrette Street,K1L 7Z9
+370,Ottawa,2017,12,9,NA,This Is A Christmas Concert by The Once with special guest Brad Fillatre,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+371,Ottawa,2017,12,31,NA,7th Annual New Year's Eve Comedy Night - Show only,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+372,Ottawa,2018,2,3,NA,Fête Frissons,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+373,Ottawa,2018,2,3,NA,Cowboy Junkies,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+374,Ottawa,2018,2,10,NA,Charly in the Desert,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+375,Ottawa,2017,8,24,NA,See What Flowers Ottawa Book Launch,Downtown/Central,191 Colonel By Dr.,191 Colonel By Dr.,K1S 5P8
+376,Ottawa,2017,8,6,NA,TC3 Breakthrough Concert,Downtown/Central,57 Lyndale Avenue,57 Lyndale Avenue,K1Y 2M6
+377,Ottawa,2017,8,3,NA,Instructors' Exhibition,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+378,Ottawa,2017,8,4,NA,Instructors' Exhibition,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+379,Ottawa,2017,1,1,NA,PHOTOttawa150 – Capital Time Capture,Region Wide,-,-,K1A 0A4
+380,Ottawa,2017,8,19,NA,Queen Bee Party,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+381,Ottawa,2017,8,25,NA,Baconpalooza,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+382,Ottawa,2017,8,24,NA,Fourteenth annual National Jewellery Student Competition,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+383,Ottawa,2017,8,25,NA,Hopped and Confused,Downtown/Central,555 Wellington Street,555 Wellington Street,K1R 1C5
+384,Ottawa,2017,8,9,NA,Whatever's Cool With Me 20th Anniversary Party with Kalle Mattson,Downtown/Central,1077 Bank Street,1077 Bank Street,K1S 3W9
+385,Ottawa,2017,9,9,NA,Bug Day!,Downtown/Central,861 Prince of Wales Dr.,861 Prince of Wales Dr.,K2C 3R6
+386,Ottawa,2017,9,24,NA,"Ottawa Dolls, Toys, Teddies and Miniatures Show 2017",West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+387,Ottawa,2017,9,16,NA,Tastes of Wellington West,Region Wide,-,-,K1A 0A4
+388,Ottawa,2017,8,19,NA,Art in Strathcona Park,Downtown/Central,25 Range Road,25 Range Road,K1N 8J7
+389,Ottawa,2017,9,9,NA,Bicycle Film Festival,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+390,Ottawa,2017,9,2,NA,Teal Tailgate Party 2017,East Ottawa,300 Coventry Road,300 Coventry Road,K1K 4P5
+391,Ottawa,2017,8,28,NA,The Telegrams at Irene's Pub,Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+392,Ottawa,2017,8,26,NA,The Great Trail Cross-Canada Connection Celebration,Downtown/Central,1 Rideau Street,1 Rideau Street,K1N 8S7
+393,Ottawa,2017,8,18,NA,The Real 6,Downtown/Central,400 Dalhousie Street,400 Dalhousie Street,K1N 9J9
+394,Ottawa,2017,8,26,NA,Sons of Pluto at Backdrop with special guest Crystalena,NA,160 Metcalfe Street,160 Metcalfe Street,K2P 1P2
+395,Ottawa,2017,9,10,NA,Annual Historical Walking Tour: Life in 1867,Downtown/Central,280 Beechwood Ave,280 Beechwood Ave,K1L 8E2
+396,Ottawa,2017,9,9,NA,Bonsai Art Exhibition,Downtown/Central,255 Sussex Drive,255 Sussex Drive,K1N 9E6
+397,Ottawa,2017,9,21,NA,Compagnie ODD,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+398,Ottawa,2017,9,20,NA,Educating Rita,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+399,Ottawa,2017,8,12,NA,Latin Sparks Festival: Encore Edition,Downtown/Central,6 Booth Street,6 Booth Street,K2H 8NS
+400,Ottawa,2017,9,14,NA,Vernissage: Continuum - Karsh Award artists welcome a new generation ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+401,Ottawa,2017,9,24,NA,Tour with the curator: Continuum - Karsh Award artists welcome a new generation ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+402,Ottawa,2017,10,25,NA,Arsenic and Old Lace,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+403,Ottawa,2018,2,14,NA,Dead Accounts,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+404,Ottawa,2017,9,2,NA,Fall Into Harvest,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+405,Ottawa,2017,11,29,NA,Peter Pan and Wendy,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+406,Ottawa,2017,9,23,NA,Smashing Pumpkins,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+407,Ottawa,2017,9,30,NA,Culture Days,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+408,Ottawa,2017,10,29,NA,Halloween Hijinks,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+409,Ottawa,2018,1,10,NA,An Inspector Calls,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+410,Ottawa,2018,3,21,NA,A Streetcar Named Desire,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+411,Ottawa,2018,5,2,NA,Sherlock Holmes and the Case of the Jersey Lily,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+412,Ottawa,2018,6,6,NA,Move Over Mrs. Markham,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+413,Ottawa,2018,7,11,NA,The Unexpected Guest,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+414,Ottawa,2017,9,1,NA,RBC Canadian Painting Competition - Exhibit ,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+415,Ottawa,2017,10,15,NA,Singer-Songwriter & Americana,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+416,Ottawa,2017,11,5,NA,Variations for the 21st Century ,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+417,Ottawa,2018,3,4,NA,On a Different Note,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+418,Ottawa,2018,3,25,NA,Celebrating Women in Music,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+419,Ottawa,2018,4,8,NA,Operatic Brass,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+420,Ottawa,2018,4,22,NA,Cosmos Saxophone Quartet,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+421,Ottawa,2018,5,6,NA,Renegades and Refugees,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+422,Ottawa,2018,5,13,NA,Crossing Borders,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+423,Ottawa,2017,9,9,NA,Ottawa School of Art Open House,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+424,Ottawa,2017,9,9,NA,Wiggle Waggle Walk & Run,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+425,Ottawa,2017,8,20,NA,Heritage Ottawa Walking Tour: Lowertown East,Downtown/Central,501 Old St Patrick Street,501 Old St Patrick Street,K1N 8R3
+426,Ottawa,2017,9,7,NA,RICHard SMOLinski - Scrutinearsighted,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+427,Ottawa,2017,9,16,NA,JuniperTulipMarket,Downtown/Central,715 Cooper Street,715 Cooper Street,K1R 5J5
+428,Ottawa,2017,8,24,NA,Unity,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+429,Ottawa,2017,8,20,NA,Great Canadian Tease Burlesque Brunch,Downtown/Central,41 York St,41 York St,K1N 5P5
+430,Ottawa,2017,9,7,NA,The Road Forward to One World Film Festival,Downtown/Central,325 Rideau Street,325 Rideau Street,K1N 5Y4
+431,Ottawa,2017,8,21,NA,2017 Anime Film Week,Downtown/Central,255 Sussex Drive,255 Sussex Drive,K1N 9E6
+432,Ottawa,2017,10,1,NA,Victorian High Tea Party,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+433,Ottawa,2017,8,18,NA,Capital Funk,Downtown/Central,76 Murray Street,76 Murray Street,K1N 5M6
+434,Ottawa,2017,9,9,NA,Roman Timofeev's piano recital,Downtown/Central,140 Laurier Avenue West,140 Laurier Avenue West,K1N 6N6
+435,Ottawa,2017,8,26,NA,Live Music with Jimmy Young and the Restless,Downtown/Central,330 Kent Street,330 Kent Street,K2P 2A6
+436,Ottawa,2017,9,23,NA,Etsy: Made in Canada,West Ottawa,1565 Maple Grove Street,1565 Maple Grove Street,K2V 1A3
+437,Ottawa,2017,10,22,NA,A Night at the Races 2017: TROtt's Annual Fundraiser,Rural East,4837 Albion Road,4837 Albion Road,K1X 1A3
+438,Ottawa,2017,9,13,NA,Chowaniec Projects: Stardust,Downtown/Central,505 Industrial Avenue,505 Industrial Avenue,K1G 0Z1
+439,Ottawa,2017,9,9,NA,Richard Ahnert: Far and Wide,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+440,Ottawa,2017,9,15,NA,Fifty-Five Plus Lifestyle Show,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+441,Ottawa,2017,9,23,NA,david lidbetter - whiteout,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+442,Ottawa,2017,10,14,NA,Mad Crafters Tea Party & Market ,West Ottawa,3877 Old Richmond Road,3877 Old Richmond Road,K2H 5C1
+443,Ottawa,2017,9,8,NA,Tina Therrien,Gatineau Park/Chelsea,-,-,J0X 3G0
+444,Ottawa,2017,9,8,NA,Ta Da! Arts Alive! Quebec Festival,Gatineau Park/Chelsea,38 Valley Drive,38 Valley Drive,J0X 3G0
+445,Ottawa,2017,11,3,NA,Royal Winnipeg Ballet Professional Division’s 2017/18 Audition Tour,West Ottawa,1460 Merivale Road,1460 Merivale Road,K2E 5P2
+446,Ottawa,2017,8,27,NA,Colonel Altıkat and Fallen Diplomats Memorial Service ,Downtown/Central,Island Park Drive,Island Park Drive,K1Y 0A1
+447,Ottawa,2017,9,23,NA,Tree Fest Ottawa Fall Tree Festival ,South Ottawa,100 Brewer Way,100 Brewer Way,K1S 5T1
+448,Ottawa,2017,9,1,NA,Australian Blues Master - Lloyd Spiegel,East Ottawa,4240 Innes Road,4240 Innes Road,K4A 5E6
+449,Ottawa,2017,11,16,NA,Unleashed: The Social Enterprise Event,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+450,Ottawa,2017,10,26,NA,Bring Food Home 2017 ,Downtown/Central,550 Cumberland Street,550 Cumberland Street,K1N 6N5
+451,Ottawa,2017,9,9,NA,Live Music,Downtown/Central,330 Kent Street,330 Kent Street,K2P 2A6
+452,Ottawa,2017,9,5,NA,Shirley Van Dusen - A Retrospective,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+453,Ottawa,2017,10,18,NA,Ottawa’s Small Business eSAX Networking Tradeshow,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+454,Ottawa,2017,9,8,NA,JW-Jones,Downtown/Central,76 Murray Street,76 Murray Street,K1N 5M6
+455,Ottawa,2017,9,8,NA,Book Sale,Rural West,3790 Carp Rd,3790 Carp Rd,K0A 1L0
+456,Ottawa,2017,11,25,NA,European Soundscape,Downtown/Central,429 Parkdale Avenue,429 Parkdale Avenue,K1Y1H3
+457,Ottawa,2017,9,22,NA,Outrage: The McGonigle Murders,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+458,Ottawa,2017,9,26,NA,Nationwide Treasure Hunt for Valuable Art Work ,Downtown/Central,100 Elgin Street,100 Elgin Street,K1P 5K8
+459,Ottawa,2017,9,22,NA,Canada-China Film Festival - Stories of China and Chinese Canadians,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+460,Ottawa,2018,2,10,NA,Salut d'Amour,Downtown/Central,429 Parkdale Avenue,429 Parkdale Avenue,K1Y1H3
+461,Ottawa,2017,10,21,NA,Nordic Favourites,West Ottawa,30 Cleary Avenue,30 Cleary Avenue,K2A 4A1
+462,Ottawa,2017,9,29,NA,British Isles Family History Society of Greater Ottawa - Annual Conference,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+463,Ottawa,2017,9,6,NA,Dark Horse Dance Projects,Downtown/Central,200 Crichton Street,200 Crichton Street,K1M 1W2
+464,Ottawa,2017,10,1,NA,"Feed the City, Feed Your Soul",Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+465,Ottawa,2017,9,23,NA,BeYou Campaign with performance by Tara Shannon,East Ottawa,1200 St. Laurent Boulevard,1200 St. Laurent Boulevard,K1K 3B8
+466,Ottawa,2017,9,23,NA,Light Jazz for Orchestra workshop,West Ottawa,347 Richmond Road,347 Richmond Road,K2A 0E7
+467,Ottawa,2017,10,1,NA,Sight-Sing with Success: Solving the mystery of the musical score workshop,West Ottawa,630 Island Park Drive,630 Island Park Drive,K1Y 0B7
+468,Ottawa,2017,10,22,NA,Re[place] Re[collect] Book Launch,East Ottawa,800 Taylor Creek Drive,800 Taylor Creek Drive,K1C 1T1
+469,Ottawa,2017,9,16,NA,Trivia Night Challenge 2017,Downtown/Central,141 Bayview Road,141 Bayview Road,K1Y 4M3
+470,Ottawa,2017,9,16,NA,True North,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+471,Ottawa,2017,9,16,NA,YogiWino Summer Finale,Rural East,1000 Perrault Road,1000 Perrault Road,K4B 1H8
+472,Ottawa,2017,12,12,NA,Tales of a Charlie Brown Christmas,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+473,Ottawa,2017,9,24,NA,Barrack Hill Cemetery - Public Visitation,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+474,Ottawa,2017,9,30,NA,Ottawa Geek Market,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+475,Ottawa,2017,9,20,NA,Curious About Curating?,Downtown/Central,439 Queen St,439 Queen St,K1R 5A6
+476,Ottawa,2017,9,21,NA,Doin' it Right: Correct Grammar and Punctuation,Downtown/Central,88 Albert Street,88 Albert Street,K1P 5E9
+477,Ottawa,2017,10,21,NA,Light the Night Walk,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+478,Ottawa,2017,9,28,NA,Julie Mercantini: 'biomorphs',Downtown/Central,35 George Street,35 George Street,K1N 8W5
+479,Ottawa,2017,10,22,NA,The 37th Ottawa Antiquarian Book Fair,South Ottawa,3750 North Bowesville Road,3750 North Bowesville Road,K1V 1B8
+480,Ottawa,2017,10,15,NA,Education for Africa Family Variety Show,West Ottawa,900 Greenbank Road,900 Greenbank Road,K2J 1S8
+481,Ottawa,2017,10,23,NA,Sir András Schiff,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+482,Ottawa,2017,11,1,NA,Lemon Bucket Orkestra,Downtown/Central,501 Old St. Patrick Street,501 Old St. Patrick Street,K1N 8R3
+483,Ottawa,2017,11,12,NA,Ensemble Variances,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+484,Ottawa,2017,12,4,NA,The Tallis Scholars,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+485,Ottawa,2017,11,23,NA,Jess Moskaluke featuring The Washboard Union and JJ Shiplett,Downtown/Central,1015 Bank St.,1015 Bank St.,K1S 3W7
+486,Ottawa,2018,1,15,NA,St. Lawrence String Quartet,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+487,Ottawa,2017,10,19,NA,Sip N Style 2017,Downtown/Central,555 Wellington Street,555 Wellington Street,K1R 1C5
+488,Ottawa,2017,11,3,NA,IF the Walls Could Talk,Rural South,5440 Main Street,5440 Main Street,K0A 2W0
+489,Ottawa,2017,9,27,NA,Pretty Archie Live,Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+490,Ottawa,2017,10,19,NA,Uncork the Cure,Downtown/Central,225 Marché Way #107,225 Marché Way #107,K1S 5J3
+491,Ottawa,2017,9,24,NA,Paint-a-Pony fundraiser,South Ottawa,6362 Bank Street,6362 Bank Street,K4P 1J4
+492,Ottawa,2017,10,7,NA,Thanksgiving on the Farm,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+493,Ottawa,2017,10,28,NA,Halloween on the Farm,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+494,Ottawa,2017,9,21,NA,"Weird With Cats with The Rathburns, All Day Brakfast & The Mourning Kitchen",Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+495,Ottawa,2017,9,25,NA,Ottawa Architecture Week,Downtown/Central,120 Lisgar Street,120 Lisgar Street,K2P 0C2
+496,Ottawa,2017,11,1,NA,For the Love of Cheese,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+497,Ottawa,2017,9,30,NA,Kids and Company Celebrates 15 years!,NA,424 Chapman Mills Drive,424 Chapman Mills Drive,K2J 0M7
+498,Ottawa,2017,10,8,NA,Magician Danys Hamel – Danys’ Tricks and Follies ,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+499,Ottawa,2017,11,5,NA,Music at the Museum - We Will Remember,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+500,Ottawa,2017,11,19,NA,Patrick Reymond and the Magical Theatre Show,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+501,Ottawa,2017,9,22,NA,Animals Rock 2017!,Downtown/Central,151 George Street,151 George Street,K1N 5W5
+502,Ottawa,2017,10,3,NA,The Fourth Annual Collectors Show,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+503,Ottawa,2017,11,2,NA,Sir John A. MacDonald - The Musical,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+504,Ottawa,2017,9,29,NA,Artist Studio Program (ASP) Open House ,Region Wide,-,-,K1A 0A4
+505,Ottawa,2017,10,1,NA,Breadology,Downtown/Central,10 Blackburn Avenue,10 Blackburn Avenue,K1N 6P9
+506,Ottawa,2017,10,15,NA,Metamorphoses,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+507,Ottawa,2017,11,16,NA,Pellegrini Opera Fundraiser,Downtown/Central,215 Preston St.,215 Preston St.,K1R 7R1
+508,Ottawa,2017,10,2,NA,Mozart!,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+509,Ottawa,2017,12,2,NA,A Winter's Tail,West Ottawa,1315 Prince of Wales Drive,1315 Prince of Wales Drive,K2C 1N2
+510,Ottawa,2017,11,18,NA,Ottawa Adventure Film Festival,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+511,Ottawa,2017,11,10,NA,260 Fingers: Opening Night,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+512,Ottawa,2017,10,28,NA,Ottawa Parent & Child Expo 2017,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+513,Ottawa,2017,9,30,NA,"Ottawa’s Mysterious Maverick, Frank Cole Screening I",Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+514,Ottawa,2017,9,30,NA,"Ottawa’s Mysterious Maverick, Frank Cole Screening II",Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+515,Ottawa,2017,9,28,NA,the Birthday Show!,Downtown/Central,35 Laurel Street,35 Laurel Street,K1Y 2E6
+516,Ottawa,2017,10,28,NA,Knox Harvest Bazaar,Downtown/Central,120 Lisgar Street,120 Lisgar Street,K2P 0C2
+517,Ottawa,2017,10,21,NA,This is Our Music,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+518,Ottawa,2018,1,1,NA,Salute to Vienna New Year's Concert,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+519,Ottawa,2017,11,2,NA,Martini Madness,Downtown/Central,1001 Queen Elizabeth Dr.,1001 Queen Elizabeth Dr.,K1S 5K7
+520,Ottawa,2018,3,22,NA,Tafelmusik Baroque Orchestra,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+521,Ottawa,2018,4,12,NA,Christian Tetzlaff,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+522,Ottawa,2017,10,15,NA,Ottawa Welcomes the World: Japan Festival,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+523,Ottawa,2017,10,16,NA,"Hayashiya Imamaru: Japanese Paper-cutting Art ""Kami-Kiri"" Performance",Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+524,Ottawa,2017,9,30,NA,Post Productions at Maverick's,Downtown/Central,221 Rideau St.,221 Rideau St.,K1N5X8
+525,Ottawa,2017,10,26,NA,The Race to Save the Cheetah: Solutions Come from Community Conservation,Downtown/Central,439 Queen St,439 Queen St,K1R 5A6
+526,Ottawa,2017,11,4,NA,St Helen's Old Fashioned Christmas Bazaar,East Ottawa,1234 Prestone Drive,1234 Prestone Drive,K1E 3X6
+527,Ottawa,2017,10,8,NA,Beijing Tourism,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+528,Ottawa,2017,11,19,NA,The Chris Timms Comedy Cabaret,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+529,Ottawa,2017,10,2,NA,Blues with Robert Farrell,Downtown/Central,1211 Wellington Street West,1211 Wellington Street West,K1Y 2Z8
+530,Ottawa,2017,11,7,NA,Voices from the Front: The Radio Show,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+531,Ottawa,2017,11,4,NA,Steel Toes & Stilettos Full Moon Gala,Downtown/Central,55 Colonel By Drive,55 Colonel By Drive,K1N 9J2
+532,Ottawa,2017,10,6,NA,Puppet Theatre Performance: Zoom at Sea,Region Wide,-,-,K1A 0A4
+533,Ottawa,2017,10,28,NA,11th Annual Great Pumpkin Charity Ball,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+534,Ottawa,2017,10,14,NA,Holodeck Follies,Downtown/Central,1077 Bank Street,1077 Bank Street,K1S 3W9
+535,Ottawa,2017,11,4,NA,Tucker House Renewal Centre's 9th Annual Green Gala,Rural East,1731 Tucker Road,1731 Tucker Road,K4K 1K7
+536,Ottawa,2017,10,27,NA,2nd Oskar Halecki Symposium: Polish Canadians Contribution to Canada,Downtown/Central,223 Main Street,223 Main Street,K1S 1C4
+537,Ottawa,2017,10,11,NA,Superheroes and Balloons,Downtown/Central,439 Queen St,439 Queen St,K1R 5A6
+538,Ottawa,2017,10,16,NA,Substantive Editing,Downtown/Central,88 Albert Street,88 Albert Street,K1P 5E9
+539,Ottawa,2017,11,8,NA,Writing and Editing for the Web,Downtown/Central,88 Albert Street,88 Albert Street,K1P 5E9
+540,Ottawa,2017,10,25,NA,Series Dance 10 # 28 - Laurie Young / Face 2 Face,Downtown/Central,2 Daly Ave,2 Daly Ave,K1N 6E2
+541,Ottawa,2017,10,12,NA,Nicholas Crombach - Captured,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+542,Ottawa,2017,9,22,NA,Entangled Community work by Kim Vose Jones,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+543,Ottawa,2017,10,14,NA," The Enlightened Screen: Hugh Gibson, The Stairs",Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+544,Ottawa,2017,10,13,NA,Safe Low Limit,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+545,Ottawa,2017,11,14,NA,"Joey Wright - Country, Music Tour",Downtown/Central,692 Somerset St W,692 Somerset St W,K1R 6P4
+546,Ottawa,2017,11,2,NA,Khadija Baker - Behind Walls/Maps ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+547,Ottawa,2017,10,29,NA,Table 4 Four Debut,Hull Sector,170 Montcalm Street,170 Montcalm Street,J8X 2M2
+548,Ottawa,2017,10,26,NA,Ottawa Scandalous,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+549,Ottawa,2017,10,29,NA,The Luck of Ginger Coffey,Downtown/Central,325 Rideau Street,325 Rideau Street,K1N 5Y4
+550,Ottawa,2017,11,11,NA,Lest We Forget,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+551,Ottawa,2017,10,15,NA,Coco Love Alcorn - An Invitation To Sing Tour,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+552,Ottawa,2017,10,28,NA,Howl-O-Ween Open House,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+553,Ottawa,2017,10,28,NA,ArtWear Ottawa Show and Sale,West Ottawa,630 Island Park Drive,630 Island Park Drive,K1Y 0B7
+554,Ottawa,2017,10,20,NA,Timekode: October with special guest DJ Trevor Walker,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+555,Ottawa,2017,11,11,NA,Ray Montford in Concert,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+556,Ottawa,2017,11,4,NA,Day of the Dead Festival & Parade,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+557,Ottawa,2017,10,28,NA,Superhero Academy,East Ottawa,800 Taylor Creek Drive,800 Taylor Creek Drive,K1C 1T1
+558,Ottawa,2017,10,14,NA,Take Care Healthy Mindset,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+559,Ottawa,2017,10,27,NA,Taiwan Film Nights: Lokah Laqi (Hang in There Kids!),Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+560,Ottawa,2017,11,3,NA,Taiwan Film Nights: Go Grandriders,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+561,Ottawa,2017,11,4,NA,Japan Film Festival: Kimi wa iiko (Being Good),Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+562,Ottawa,2017,11,10,NA,Japan Film Festival: Pekorosu no haha ni ai ni iku (Pecoross’ Mother and Her Days),Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+563,Ottawa,2017,12,1,NA,An Old Fashioned Christmas,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+564,Ottawa,2017,10,14,NA,Lori Richards - Breathing Spaces,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+565,Ottawa,2017,10,27,NA,"Three at Noon: Chamber Music For Oboe, Violin, and Piano",Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+566,Ottawa,2017,11,4,NA,Squash CF!,Rural West,5740 Old Richmond Road,5740 Old Richmond Road,K0A 2Z0
+567,Ottawa,2017,11,4,NA,The Baby Show,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+568,Ottawa,2017,11,7,NA,Global Tastes - Canadian Cheeses,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+569,Ottawa,2017,11,10,NA,Soul Shakedown with the Split,NA,420 Riverside Drive,420 Riverside Drive,J0X 3G0
+570,Ottawa,2017,11,28,NA,Cheese Soirée,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+571,Ottawa,2017,11,1,NA,The GCTC Prologue,Downtown/Central,1233 Wellington St. West.,1233 Wellington St. West.,K1Y 0G7
+572,Ottawa,2017,10,28,NA,Fort Wellington Halloween public investigation,Rural South,370 Vankoughnet Street,370 Vankoughnet Street,K0E 1T0
+573,Ottawa,2017,11,23,NA,Series Dance 10 #29  Natasha Bakht & Monica Shah,Downtown/Central,2 Daly Ave,2 Daly Ave,K1N 6E2
+574,Ottawa,2017,11,17,NA,Office Hours by Norm Foster,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+575,Ottawa,2017,11,18,NA,Carp Christmas Craft Sale,Rural West,3790 Carp Rd,3790 Carp Rd,K0A 1L0
+576,Ottawa,2017,11,11,NA,260 Fingers,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+577,Ottawa,2017,11,2,NA,Soirée d’information - Arts visuels et médias sociaux,Downtown/Central,293 Dalhousie Street,293 Dalhousie Street,K1N 7E5
+578,Ottawa,2017,11,4,NA,Annual Fall Bazaar,West Ottawa,740 Melfa Crescent,740 Melfa Crescent,K2C0P2
+579,Ottawa,2017,11,11,NA,"GoSalsa Tenth Anniversary Gala - Black, White & Gold",Hull Sector,331 Boulevard de la Cité-des-Jeunes,331 Boulevard de la Cité-des-Jeunes,J8Y 6T3
+580,Ottawa,2017,11,2,NA,The Great Rectory Art Party,Downtown/Central,179 Murray Street,179 Murray Street,K1N 5M7
+581,Ottawa,2017,10,29,NA,Moonfruits & Kyra Shaughnessy Live,Downtown/Central,910 Gladstone Avenue,910 Gladstone Avenue,K1R 6Y4
+582,Ottawa,2017,10,28,NA,Freedom's Halloween Bash,West Ottawa,3500 Fallowfield Road,3500 Fallowfield Road,K2J 4A7
+583,Ottawa,2017,11,7,NA,Summery,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+584,Ottawa,2017,12,5,NA,Candlelight Christmas Concert,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+585,Ottawa,2017,10,22,NA,Lawrence Krauss: From the Sun to the Universe: Your Hidden Connections to the Cosmos,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+586,Ottawa,2017,12,8,NA,DIGI60 Filmmakers' Festival Fall 2017 Doc & Scripted Nights,Region Wide,-,-,K1A 0A4
+587,Ottawa,2017,10,20,NA,Justin Duhaime Gypsy Jazz Duo with Andrew Tesolin,Downtown/Central,1 Beechwood Avenue,1 Beechwood Avenue,K1M 1M1
+588,Ottawa,2017,10,26,NA,Welcome to Our Home,West Ottawa,1860 Maple Grove Road,1860 Maple Grove Road,K2S 0W3
+589,Ottawa,2017,11,3,NA,Ottawa Wine and Food Festival ,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+590,Ottawa,2017,10,21,NA,The Wilderness / Deux Trois / TAXI - Mavericks - 9pm,Downtown/Central,221 Rideau St.,221 Rideau St.,K1N5X8
+591,Ottawa,2017,10,29,NA,Centretown Community Pumpkin Carving Contest,Downtown/Central,180 Percy Street,180 Percy Street,K1R 6E5
+592,Ottawa,2017,11,16,NA,30th Annual Nepean Ringette Tournament,Region Wide,-,-,K1A 0A4
+593,Ottawa,2017,11,9,NA,Beauty and the Beast Pantomime,West Ottawa,"102 Greenview Drive, Britannia Park","102 Greenview Drive, Britannia Park",K2B 8J8
+594,Ottawa,2017,11,4,NA,Allsaints Book Fair,Downtown/Central,10 Blackburn Avenue,10 Blackburn Avenue,K1N 6P9
+595,Ottawa,2017,10,27,NA,Used Book Sale,South Ottawa,564 Pleasant Park road,564 Pleasant Park road,K1H 5P3
+596,Ottawa,2017,11,24,NA,Momentum613,Downtown/Central,10 Blackburn Avenue,10 Blackburn Avenue,K1N 6P9
+597,Ottawa,2017,11,1,NA,Herzberg Lecture: Signalling Through DNA,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+598,Ottawa,2017,11,2,NA,It's Always Sunny In Philidelphia Trivia,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+599,Ottawa,2017,11,24,NA,Lauren & Amanda Do It,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+600,Ottawa,2017,11,11,NA,Canadian Liver Foundation LIVERight Gala,East Ottawa,200 Coventry Road,200 Coventry Road,K1K 4S3
+601,Ottawa,2017,12,10,NA,Dans le silence de la nuit,East Ottawa,1111 Orleans Boulevard,1111 Orleans Boulevard,K1C 7C8
+602,Ottawa,2017,11,4,NA,Tonight's for Tanzania,Region Wide,tba,tba,tba
+603,Ottawa,2017,11,16,NA,Vernissage: Longevity - 2017 Additions to the City of Ottawa Art Collection,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+604,Ottawa,2017,11,11,NA,A Matter of Will by Rod Carley - reading and signing,Downtown/Central,1073 Bank Street,1073 Bank Street,K1S 3X3
+605,Ottawa,2017,12,2,NA,Contemporary Canadian Jewellery: the 30th annual exhibition ,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+606,Ottawa,2017,10,25,NA,No Way to Say Goodbye - The Songs of Leonard Cohen,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+607,Ottawa,2017,11,28,NA,"Behind the PR Scenes: Guy Laflamme, Ottawa 2017, Executive Director",Downtown/Central,7 Bayview Road,7 Bayview Road,K1Y 2C5
+608,Ottawa,2017,11,3,NA,Rockcliffe Park Book Fair,NA,360 Springfield Road,360 Springfield Road,K1M 1C1
+609,Ottawa,2017,11,18,NA,Inspirations Art Show and Sale,South Ottawa,5550 Ann Street,5550 Ann Street,K4M 1A3
+610,Ottawa,2017,11,1,NA,Scotiabank Giller Prize: Between the Pages Author Panel,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+611,Ottawa,2017,12,2,NA,Contemporary Canadian Jewellery: the 30th annual exhibition - Opening,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+612,Ottawa,2017,11,10,NA,Ciné-club - « Mal de pierres »,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+613,Ottawa,2017,11,17,NA,32nd European Union Film Festival (EUFF) ,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+614,Ottawa,2017,11,24,NA,Ciné-club - Frantz,Downtown/Central,1635 Riverside Drive,1635 Riverside Drive,K1G 0E5
+615,Ottawa,2017,12,18,NA,Ciné-club - Le roi et l'oiseau,Downtown/Central,1635 Riverside Drive,1635 Riverside Drive,K1G 0E5
+616,Ottawa,2017,11,15,NA,Ciné-Discussion Night with Marie-Josée Massicotte,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+617,Ottawa,2017,11,20,NA,Soirée Beaujolais nouveau (ou pas !),Downtown/Central,42 Sussex Drive,42 Sussex Drive,K1M 2C9
+618,Ottawa,2017,11,24,NA,The Steve Berndt Quartet,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+619,Ottawa,2017,11,25,NA,Red Trillium Studio Tour,Rural West,-,-,K0A 2H0
+620,Ottawa,2017,11,10,NA,JW-Jones,Downtown/Central,76 Murray Street,76 Murray Street,K1N 5M6
+621,Ottawa,2018,4,12,NA,James Bond in A Convenient Lie,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+622,Ottawa,2018,7,22,NA,Boochfest,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+623,Ottawa,2017,11,28,NA,The Walrus Talks,Downtown/Central,240 McLeod Street,240 McLeod Street,K2P 2R1
+624,Ottawa,2017,11,24,NA,Overbrook the Musical,East Ottawa,"485 Donald Street,","485 Donald Street,",K1K 1L8
+625,Ottawa,2017,12,3,NA,Glad Tidings,East Ottawa,70 James Street,70 James Street,K1R 5M3
+626,Ottawa,2017,12,3,NA,Ottawa Brahms Choir Christmas Concert 2017,Downtown/Central,2345 Alta Vista Drive,2345 Alta Vista Drive,K1H 7M6
+627,Ottawa,2017,11,16,NA,An evening with Kenyan Peacemaker Alice Wairimu Nderitu,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+628,Ottawa,2017,11,25,NA,Odawa's Annual Aboriginal Art Auction,Downtown/Central,415 Piccadilly Avenue,415 Piccadilly Avenue,K1Y 0H3
+629,Ottawa,2017,11,16,NA,The Brothers Grimm Spectaculathon ,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+630,Ottawa,2017,11,19,NA,The Chris Timms Comedy Cabaret,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+631,Ottawa,2018,1,27,NA,The Carleton Cup,Downtown/Central,62 William Street,62 William Street,K1N 7A3
+632,Ottawa,2017,12,2,NA,Worldview Studio Fall Fine Art Show,East Ottawa,210 Blackburn avenue,210 Blackburn avenue,K1N 8A8
+633,Ottawa,2017,11,14,NA,Wapikoni Film Screening - Indigenous issues and traditions,Downtown/Central,120 University Street,120 University Street,K1N 6N5
+634,Ottawa,2017,11,14,NA,Rhapsody Quintet at NAC Presents,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+635,Ottawa,2017,11,22,NA,New Leaf Community Challenge 2017,Downtown/Central,7 Bayview Road,7 Bayview Road,K1Y 2C5
+636,Ottawa,2017,12,2,NA,Songs and Sonnets with Steve Bell & Malcolm Guite,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+637,Ottawa,2017,11,28,NA,Great Big smalls XIII,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+638,Ottawa,2017,12,14,NA,In Terra Pax...a Christmas scene,Downtown/Central,151 Laurier Ave E,151 Laurier Ave E,K1N 6N8
+639,Ottawa,2017,11,10,NA,Pie-a-Prof,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+640,Ottawa,2017,12,10,NA,The Nutcracker,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+641,Ottawa,2017,11,18,NA,"Christmas CD release concert, flute and harp",Downtown/Central,760 Somerset St. West,760 Somerset St. West,K1R 6P9
+642,Ottawa,2017,11,18,NA,Westboro Vintage Pop Up Shop,West Ottawa,389 Richmond Road,389 Richmond Road,K2A 0E7
+643,Ottawa,2017,11,25,NA,Magical Village,East Ottawa,110 Place d'Orléans Dr,110 Place d'Orléans Dr,K1C2L9
+644,Ottawa,2017,11,19,NA,Poland: Marie Sklodowska-Curie (Marie Curie: The Courage of Knowledge)(EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+645,Ottawa,2017,11,20,NA,Sweden: The Square (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+646,Ottawa,2017,11,21,NA,France: Les Ogres (Ogres) (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+647,Ottawa,2017,11,24,NA,Latvia: Mellow Mud (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+648,Ottawa,2017,11,24,NA,Greece: Plateia Amerikis (Amerika Square) (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+649,Ottawa,2017,11,25,NA,Finland: Tytto nimelta Varpu (Little Wing) (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+650,Ottawa,2017,11,25,NA,Germany: Willkommen bei den Hartmanns (Welcome to the Hartmanns) (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+651,Ottawa,2017,11,26,NA,Ireland: In the Name of Peace - John Hume in America (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+652,Ottawa,2017,11,26,NA,Belgium: Baden Baden (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+653,Ottawa,2017,11,27,NA,Denmark: Rosita (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+654,Ottawa,2017,11,28,NA,Italy: Il giovane favoloso (Leopardi) (EUFF 2017),Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+655,Ottawa,2017,11,19,NA,Inside the Orchestra,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+656,Ottawa,2017,11,17,NA,Timekode 12-Year Anniversary with special guest DJ The Gaff,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+657,Ottawa,2017,12,9,NA,Ray Montford Trio,Rural West,1715 Calabogie Road,1715 Calabogie Road,K0J 1G0
+658,Ottawa,2017,11,18,NA,Kanata Symphony Orchestra Concert,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+659,Ottawa,2017,11,18,NA,Tanya Kirouac - Excavations,Downtown/Central,"505 Industrial Avenue, Unit 6","505 Industrial Avenue, Unit 6",K1G 0Z1
+660,Ottawa,2017,11,4,NA,Drew Mosley - A Rebellious Nature,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+661,Ottawa,2017,12,4,NA,Ennis Sisters Christmas Concert,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+662,Ottawa,2017,11,25,NA,Night Lights - Art and Light Festival,Downtown/Central,301 Preston Street,301 Preston Street,K1R 7R6
+663,Ottawa,2017,12,14,NA,Opening reception: Mélanie Myers: Ce qui touche au sol (What Touches the Ground) ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+664,Ottawa,2017,12,14,NA,Mélanie Myers – Ce qui touche au sol (What Touches the Ground) ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+665,Ottawa,2017,11,29,NA,Menopause The Musical,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+666,Ottawa,2017,12,8,NA,The Nutcracker ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+667,Ottawa,2018,1,17,NA,James Barker Band,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+668,Ottawa,2018,1,27,NA,Big Wreck 'In Loving Memory Of' 20th Anniversary Tour ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+669,Ottawa,2018,2,7,NA,Brent Butt ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+670,Ottawa,2018,2,10,NA,Comfortably Numb - Canada's Pink Floyd Show - The Wall ,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+671,Ottawa,2018,3,2,NA,Medium Sherry Gallant,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+672,Ottawa,2018,4,4,NA,Lights,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+673,Ottawa,2017,12,2,NA,Fisher Park Christmas Craft Market,West Ottawa,250 Holland Ave.,250 Holland Ave.,K1Y 0T6
+674,Ottawa,2017,11,25,NA,All That Glam,West Ottawa,4101 Innovation Drive,4101 Innovation Drive,K2K 0J3
+675,Ottawa,2017,12,9,NA,Tree of Life Celtic Yule,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+676,Ottawa,2017,12,16,NA,Christmas in Kanata,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+677,Ottawa,2017,11,24,NA,Double Bill: Adult Entertainment and The Maids ,Downtown/Central,Av Campus,Av Campus,K1S 5B6
+678,Ottawa,2017,12,3,NA,Dief the Chief: October 62,Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+679,Ottawa,2017,11,30,NA,Meet the 2017 GGBooks Winners in Ottawa!,Downtown/Central,150 Elgin Street,150 Elgin Street,K1P 5V8
+680,Ottawa,2017,12,9,NA,A Starry Night,South Ottawa,700 Ridgewood Ave.,700 Ridgewood Ave.,K1V 6N1
+681,Ottawa,2017,12,10,NA,Bad Axe Throwing’s Annual Holiday Fundraiser for Families in Need!,NA,1580 Liverpool Court Unit #8,1580 Liverpool Court Unit #8,K1B 4L2
+682,Ottawa,2017,11,24,NA,Kevin Smith Magic Show,South Ottawa,1650 Queensdale Avenue,1650 Queensdale Avenue,K1T 1N8
+683,Ottawa,2017,12,19,NA,OrKidstra Holiday Concert – Centretown Hub,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+684,Ottawa,2017,12,4,NA,Lunch and Learn Talk with Alex Benay on Canadian Failures,Downtown/Central,120 Metcalfe Street,120 Metcalfe Street,K1P 5M
+685,Ottawa,2017,12,26,NA,Holiday programming at the Canada Aviation and Space Museum,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+686,Ottawa,2017,12,26,NA,Holiday Programming,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+687,Ottawa,2017,12,1,NA,Elmwood Old Girls' Art Show,East Ottawa,261 Buena Vista Road,261 Buena Vista Road,K1M 0V9
+688,Ottawa,2017,12,9,NA,A Christmas Journey,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+689,Ottawa,2017,12,8,NA,Holiday Benefit Concert featuring Tara Shannon,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+690,Ottawa,2017,11,30,NA,Opening Reception: Articulations,Downtown/Central,202-66 Muriel Street,202-66 Muriel Street,K1S 4E1
+691,Ottawa,2017,12,24,NA,St. Matthew's Pageant & Choral Eucharist,Downtown/Central,217 First Avenue,217 First Avenue,K1S 2G5
+692,Ottawa,2017,12,2,NA,"4 Chefs, 4 Houses",West Ottawa,1860 Maple Grove Road,1860 Maple Grove Road,K2S 0W3
+693,Ottawa,2017,12,1,NA,World AIDS Day - Day With(out) Art,Downtown/Central,180 Percy Street,180 Percy Street,K1R 6E5
+694,Ottawa,2017,12,16,NA,4th Annual Community Christmas Dinner,West Ottawa,1820 Carling Avenue,1820 Carling Avenue,K2A 1E2
+695,Ottawa,2017,12,2,NA,Beethoven on Record,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+696,Ottawa,2017,12,16,NA,Labyrinth Walk at Carleton Memorial,West Ottawa,740 Melfa Crescent,740 Melfa Crescent,K2C0P2
+697,Ottawa,2017,12,16,NA,Hibernal Incantations - Dual CD Release,Downtown/Central,1073 Bank Street,1073 Bank Street,K1S 3X3
+698,Ottawa,2018,2,11,NA,Princess and Superhero Dance Party ,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+699,Ottawa,2017,12,16,NA,A Renée Landry Christmas: The Best of the Holidays ,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+700,Ottawa,2017,12,2,NA,The Creative Studio Grand Opening,Rural South,167 Bridge Street,167 Bridge Street,K7C 2V6
+701,Ottawa,2017,12,15,NA,Peace on Earth - Songs to Heal Our Planet,Downtown/Central,950 Bank St.,950 Bank St.,K1S 5G6
+702,Ottawa,2017,12,13,NA,Megan Jerome CD Launch,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+703,Ottawa,2017,12,2,NA,Little Voice Books Turns 3,West Ottawa,400 Earl Grey Drive,400 Earl Grey Drive,K2T 1B9
+704,Ottawa,2017,12,10,NA,Geeked Out Ottawa's Toy & Collectible Sale,South Ottawa,2901 Gibford Drive,2901 Gibford Drive,K1V 2L9
+705,Ottawa,2017,12,18,NA,Remigio in Concert,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+706,Ottawa,2017,12,16,NA,Justin Duhaime Trio featuring Denis Chang,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+707,Ottawa,2017,12,13,NA,"Water Conversations with Karen Lawson: ""Water, Indigenous Women's Health, and Environmental Violence""",Downtown/Central,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+708,Ottawa,2017,12,21,NA,Crystal Shawanda Christmas Concert ,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+709,Ottawa,2017,12,10,NA,A Cantiamo Christmas,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+710,Ottawa,2017,12,14,NA,Celebrate the Season with Matt Duchene,West Ottawa,356 Richmond Road,356 Richmond Road,K2A 0E1
+711,Ottawa,2017,12,30,NA,Pinhole Portraits Ottawa,Downtown/Central,78 George Street,78 George Street,K1N 0A8
+712,Ottawa,2018,1,11,NA,Information Session,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+713,Ottawa,2017,12,21,NA,Absolute Comedy Christmas Show,Downtown/Central,412 Preston Street,412 Preston Street,K1S 4M7
+714,Ottawa,2018,1,9,NA,Et l'aube chassant la nuit: 1 - Sharyar et Shéhérazade,Gatineau Sector,"125, promenade du Portage","125, promenade du Portage",J8X 2K2
+715,Ottawa,2018,2,13,NA,Et l'aube chassant la nuit: 2 - Le pêcheur et le génie,Gatineau Sector,"125, promenade du Portage","125, promenade du Portage",J8X 2K2
+716,Ottawa,2018,3,13,NA,Et l'aube chassant la nuit: 3 - Ali Shar et Zoumourroud,Gatineau Sector,"125, promenade du Portage","125, promenade du Portage",J8X 2K2
+717,Ottawa,2018,4,10,NA,Et l'aube chassant la nuit : 4 - Hassan de Bassorah,Gatineau Sector,"125, promenade du Portage","125, promenade du Portage",J8X 2K2
+718,Ottawa,2018,1,17,NA,Ben Globerman – Call to Prayer,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+719,Ottawa,2018,2,8,NA,Opening Reception: Ben Globerman – Call to Prayer,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+720,Ottawa,2018,2,18,NA,Ben Globerman - Musical performance and Q & A ,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+721,Ottawa,2018,5,14,NA,Psychology for Digital Behaviour Change,Downtown/Central,85 University private,85 University private,K1N 6N5
+722,Ottawa,2018,5,17,NA,Emotional Design Psychology & Neuroscience,Downtown/Central,85 University private,85 University private,K1N 6N5
+723,Ottawa,2017,12,14,NA,Quantum: The Exhibition ,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+724,Ottawa,2018,1,28,NA,Tribute to Leonard Cohen in Russian,Downtown/Central,400 King Edward Avenue,400 King Edward Avenue,K1N 7M7
+725,Ottawa,2018,4,14,NA,Festa Italiana,Downtown/Central,429 Parkdale Avenue,429 Parkdale Avenue,K1Y1H3
+726,Ottawa,2017,12,31,NA,Spectacular Spectacular!,Downtown/Central,34 Murray Street,34 Murray Street,K1N 9M5
+727,Ottawa,2018,2,8,NA,Andrew Ooi - Anatomy of Resilience,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+728,Ottawa,2018,2,8,NA,Opening Reception: Andrew Ooi - Anatomy of Resilience,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+729,Ottawa,2018,1,18,NA,Beekeeping 101,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+730,Ottawa,2018,2,16,NA,The Ottawa Bachata Festival,West Ottawa,1000 Byron Ave,1000 Byron Ave,K2A 0J3
+731,Ottawa,2018,2,23,NA,Galant! With elegance and poise! ,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+732,Ottawa,2018,2,2,NA,"Inhale, Excel",West Ottawa,100 Bayshore Drive,100 Bayshore Drive,K2B 8C1
+733,Ottawa,2018,3,24,NA,She's The Change,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+734,Ottawa,2018,2,14,NA,The Clean House by Sarah Ruhl,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+735,Ottawa,2018,5,23,NA,Miss Shakespeare - a new Canadian Musical,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+736,Ottawa,2018,5,6,NA,CN Cycle for CHEO,Downtown/Central,1 Vimy Place,1 Vimy Place,K0A 0M8
+737,Ottawa,2018,9,16,NA,RBC Race for the Kids,West Ottawa,401 Corkstown Road,401 Corkstown Road,K2H 8T1
+738,Ottawa,2018,1,12,NA,Paint Night,Rural West,7800 Golf Club Way,7800 Golf Club Way,K0A 1B0
+739,Ottawa,2018,2,9,NA,Comedy Night,Rural West,7800 Golf Club Way,7800 Golf Club Way,K0A 1B0
+740,Ottawa,2018,2,11,NA,High Tea with Elsa,Rural West,7800 Golf Club Way,7800 Golf Club Way,K0A 1B0
+741,Ottawa,2018,3,10,NA,Design a Sign Workshop,Rural West,7800 Golf Club Way,7800 Golf Club Way,K0A 1B0
+742,Ottawa,2018,1,17,NA,Grounded with Alexis Scott,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+743,Ottawa,2018,1,20,NA,Ujima Job Fair ,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+744,Ottawa,2018,3,23,NA,Hanging Terrarium Workshop,Rural West,7800 Golf Club Way,7800 Golf Club Way,K0A 1B0
+745,Ottawa,2018,1,20,NA,Mammoth book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+746,Ottawa,2018,1,18,NA,Shakespeare's Twelfth Night,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+747,Ottawa,2018,2,11,NA,Canadian College of Performing Arts National Audition Tour,West Ottawa,1903 Merivale Rd.,1903 Merivale Rd.,K2G 1E7
+748,Ottawa,2018,1,26,NA,Shiverfest,Region Wide,-,-,K1A 0A4
+749,Ottawa,2018,1,21,NA,Trans-Script,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+750,Ottawa,2018,3,23,NA,Band Together for Nelson House,Downtown/Central,10 Blackburn Avenue,10 Blackburn Avenue,K1N 6P9
+751,Ottawa,2018,5,13,NA,Sporting Life 10K Ottawa,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+752,Ottawa,2018,4,21,NA,Ottawa Parent & Child Expo,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+753,Ottawa,2018,2,3,NA,Welcome To Guruland,Downtown/Central,150 Elgin Street,150 Elgin Street,K2P 1L4
+754,Ottawa,2018,3,28,NA,Discover TechNata Tech Expo & Job Fair,West Ottawa,525 Legget Dr,525 Legget Dr,K2K 2W2
+755,Ottawa,2018,3,1,NA,TEDxKanata,West Ottawa,525 Legget Dr,525 Legget Dr,K2K 2W2
+756,Ottawa,2018,4,27,NA,"Hommage à Chopin - Sarah Molenaar, Piano Recital",East Ottawa,39 Dufferin Road,39 Dufferin Road,K1M 2H3
+757,Ottawa,2018,2,17,NA,Nick Maclean Quartet - Ottawa CD Release featuring Brownman Ali,Downtown/Central,"135 1/2, Besserer Street","135 1/2, Besserer Street",K1N 6A7
+758,Ottawa,2018,3,4,NA,Westfest All Star Fundraiser and Media Launch,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+759,Ottawa,2018,1,23,NA,Constructed Identities,Downtown/Central,150 Elgin Street,150 Elgin Street,K1P 5V8
+760,Ottawa,2018,2,8,NA,"Film Screening - ""Un sac de billes"" (2017)",Downtown/Central,1635 Riverside Drive,1635 Riverside Drive,K1G 0E5
+761,Ottawa,2018,1,29,NA,Storytelling Night with Joujou Turenne,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+762,Ottawa,2018,2,15,NA,"Film screening - ""Le sens de la fête"" (2017)",Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+763,Ottawa,2018,2,23,NA,Practice Your French,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+764,Ottawa,2018,2,19,NA,Family Day on the Farm,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+765,Ottawa,2018,3,3,NA,Barnyard Break,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+766,Ottawa,2018,2,19,NA,Family Day at the Museum,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+767,Ottawa,2018,2,15,NA,Food for Thought Lecture: Cricket Farming: A new source of protein,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+768,Ottawa,2018,5,5,NA,ORAPEX - Ottawa's National Stamp Show,Downtown/Central,2451 Riverside Drive,2451 Riverside Drive,K1H 7X7
+769,Ottawa,2018,2,22,NA,Series Dance 10 #30 - Katia Gagné,Downtown/Central,2 Daly Ave,2 Daly Ave,K1N 6E2
+770,Ottawa,2018,3,7,NA,One Thing Leads to Another,Downtown/Central,1233 Wellington St. West,1233 Wellington St. West,K1Y 0G7
+771,Ottawa,2018,3,3,NA,Rob Frayne's Drumswamp,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+772,Ottawa,2018,3,22,NA,Jordan Seal - Wealth of the Eternal Garden ,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+773,Ottawa,2018,3,27,NA,Data Day 5.0,Downtown/Central,9376 University Drive,9376 University Drive,K1S 5B6
+774,Ottawa,2018,4,26,NA,Opening Reception: Jordan Seal - Wealth of the Eternal Garden ,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+775,Ottawa,2018,3,25,NA,Artist talk: Jordan Seal – Wealth of the Eternal Garden,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+776,Ottawa,2018,2,25,NA,Annual Concert,West Ottawa,347 Richmond Road,347 Richmond Road,K2A 0E7
+777,Ottawa,2018,3,2,NA,Trivial Beersuit,Downtown/Central,"110, Laurier street West","110, Laurier street West",K1P 1J1
+778,Ottawa,2018,6,27,NA,Cirque du Soleil - Corteo,West Ottawa,1000 Palladium Drive,1000 Palladium Drive,K2V 1A5
+779,Ottawa,2018,2,2,NA,Ezra Jordan Tour 2018,Downtown/Central,221 Rideau St.,221 Rideau St.,K1N 5X8
+780,Ottawa,2018,2,25,NA,Echoes of Brass: The Music of the Salvation Army,South Ottawa,1350 Walkley Road,1350 Walkley Road,K1V 6P6
+781,Ottawa,2018,2,2,NA,So Long Seven,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+782,Ottawa,2018,2,15,NA,"The Wilderness, Paper Ladies, The Maximum Chill, and Motherland",Downtown/Central,221 Rideau St.,221 Rideau St.,K1N 5X8
+783,Ottawa,2018,3,3,NA,"The Dant Danners, The Maximum Chill, and Not Really",NA,160 Metcalfe Street,160 Metcalfe Street,K2P 1P2
+784,Ottawa,2018,2,10,NA,Mammoth Book Sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+785,Ottawa,2018,2,3,NA,Der Rosenkavalier,Downtown/Central,1230 Bank Street,1230 Bank Street,K1S 3Y3
+786,Ottawa,2018,4,28,NA,Musical Memories,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+787,Ottawa,2018,2,6,NA,Equal Terms,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+788,Ottawa,2018,2,8,NA,Accommodating the details by Gail Bourgeois,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+789,Ottawa,2018,2,9,NA,broken circle work by karine giboulo,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+790,Ottawa,2018,3,17,NA,Eternal Light,Downtown/Central,439 Queen St,439 Queen St,K1R 5A6
+791,Ottawa,2018,2,19,NA,First Annual White Lake Ice Fishing Tournament ,Rural West,100 Cedar Cove Road,100 Cedar Cove Road,K0A 3L0
+792,Ottawa,2018,3,3,NA,Here comes the Sun,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+793,Ottawa,2018,2,19,NA,Seventh Annual Underground Comedy Railroad,Downtown/Central,412 Preston Street,412 Preston Street,K1S 4M7
+794,Ottawa,2018,3,3,NA,Shae Dupuy Live in Concert,Downtown/Central,76 Murray Street,76 Murray Street,K1N 5M6
+795,Ottawa,2018,4,7,NA,One Voice,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+796,Ottawa,2018,2,24,NA,Ray Montford in Concert,Gatineau Park/Chelsea,715 Chemin Riverside,715 Chemin Riverside,J0X 3G0
+797,Ottawa,2018,2,17,NA,Sing-a-Long Sound of Music,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+798,Ottawa,2018,3,16,NA,Zachary Stevenson's Tribute to Buddy Holly,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+799,Ottawa,2018,5,12,NA,Peter Pan,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+800,Ottawa,2018,5,11,NA,Canadian Tulip Festival,Region Wide,-,-,K1A 0A4
+801,Ottawa,2018,3,24,NA,Bands 4 BIN (Bullies in Need),West Ottawa,1119 Baxter Road,1119 Baxter Road,K2C 1M1
+802,Ottawa,2018,3,6,NA,Resonations,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+803,Ottawa,2018,3,17,NA,Shamrock & Roll,Downtown/Central,76 Murray Street,76 Murray Street,K1N 5M6
+804,Ottawa,2018,3,1,NA,"Noyze, Hoozbah, Josephine Leone",Downtown/Central,221 Rideau St.,221 Rideau St.,K1N 5X8
+805,Ottawa,2018,2,24,NA,Winter Concert,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+806,Ottawa,2018,3,9,NA,Locura Latina Gala: 10 Year Anniversary,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+807,Ottawa,2018,3,8,NA,Godspell,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+808,Ottawa,2018,3,5,NA,detroitus masks,West Ottawa,356 Richmond Road,356 Richmond Road,K2A 0E1
+809,Ottawa,2018,3,8,NA,Ottawa Jazz Festival Benefit Concert ,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+810,Ottawa,2018,3,2,NA,Megan Jerome,Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+811,Ottawa,2018,4,18,NA,Rob Frayne's Dreamband 3,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+812,Ottawa,2018,4,7,NA,Pakenham Maple Run Studio Tour,Region Wide,-,-,K1A 0A4
+813,Ottawa,2018,6,3,NA,Autism Speaks Canada Walk: Ottawa 2018,West Ottawa,1565 Maple Grove Street,1565 Maple Grove Street,K2V 1A3
+814,Ottawa,2018,4,19,NA,California Wine Fair,Downtown/Central,11 Colonel By Drive,11 Colonel By Drive,K1N 9H4
+815,Ottawa,2018,3,25,NA,Passion Week,East Ottawa,70 James Street,70 James Street,K1R 5M3
+816,Ottawa,2018,3,17,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+817,Ottawa,2018,3,30,NA,The Way of the Cross,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+818,Ottawa,2018,3,24,NA,Hoppy Easter Family Event,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+819,Ottawa,2018,3,10,NA,Genticorum - cd release concert,West Ottawa,41 Rosemount Ave,41 Rosemount Ave,K1Y 1P3
+820,Ottawa,2018,4,14,NA,Inspirations Art Show & Sale,Region Wide,5519 South River Drive,5519 South River Drive,K4M 1J3
+821,Ottawa,2018,3,20,NA,Ottawa VERSeFest,Downtown/Central,120 Lisgar Street,120 Lisgar Street,K2P 0C2
+822,Ottawa,2018,3,23,NA,Climb For Kids Fatboys BBQ,Downtown/Central,34 Murray Street,34 Murray Street,K1N 9M5
+823,Ottawa,2018,4,6,NA,Closing the Gap: The Next 150,Downtown/Central,11 Colonel By Drive,11 Colonel By Drive,K1N 9H4
+824,Ottawa,2018,4,7,NA,L'Éveil,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+825,Ottawa,2018,5,5,NA,Le Garçon au visage disparu,Downtown/Central,333 King Edward Avenue,333 King Edward Avenue,K1N 7M5
+826,Ottawa,2018,3,21,NA,Piano recital in French - Olivier de Spiegeleir,Downtown/Central,501 Old St Patrick Street,501 Old St Patrick Street,K1N 8R3
+827,Ottawa,2018,4,5,NA,Film screening - Polina,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+828,Ottawa,2018,4,20,NA,Club de jeux,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+829,Ottawa,2018,3,22,NA,Dictée Gabrielle Roy,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+830,Ottawa,2018,3,31,NA,Easter at the Estate,Downtown/Central,2100 Cabot Street,2100 Cabot Street,K1H 6K1
+831,Ottawa,2018,3,31,NA,Hop into Spring,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+832,Ottawa,2018,3,31,NA,Hop into Easter,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+833,Ottawa,2018,4,21,NA,Ottawa Orchid Society Show and Sale,Downtown/Central,2451 Riverside Drive,2451 Riverside Drive,K1H 7X7
+834,Ottawa,2018,3,19,NA,Made with Love - Ottawa Regional Finals 2018,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+835,Ottawa,2018,3,17,NA,Canadian Traditions: Play the wooden spoons workshop,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+836,Ottawa,2018,3,15,NA,The Art of Peter Purdy,Downtown/Central,131 Loretta Avenue North,131 Loretta Avenue North,K1Y 2J7
+837,Ottawa,2018,4,6,NA,Masters of the Celtic Harp,West Ottawa,35 Stafford Road,35 Stafford Road,K2H 8V8
+838,Ottawa,2018,3,27,NA,Food for Thought Lecture: Have your ale and eat it too: Beer as an agricultural product ,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+839,Ottawa,2018,3,16,NA,Bang Hai Ja < Chant of Light>,Downtown/Central,150 Elgin Street,150 Elgin Street,K2P 1L4
+840,Ottawa,2018,6,7,NA,Orléans Craft Beer Festival,East Ottawa,255 Centrum Blvd.,255 Centrum Blvd.,K1E 3X7
+841,Ottawa,2018,4,20,NA,Fifty-Five Plus Lifestyle Show,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+842,Ottawa,2018,4,5,NA,Chuckles for Charity,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+843,Ottawa,2018,5,16,NA,Canada Wide Science Fair,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+844,Ottawa,2018,6,2,NA,Fletcher Wildlife Garden Annual Native Plant Sale,East Ottawa,Prince of Wales Drive,Prince of Wales Drive,K2C 3R6
+845,Ottawa,2018,3,31,NA,"Prévert, Piano and Poetry (Season 2) - Alexandre Prévert",East Ottawa,1481 Innes Road,1481 Innes Road,K1B 1C5
+846,Ottawa,2018,4,8,NA,A Spring Posy,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+847,Ottawa,2018,6,10,NA, Juvenile Diabetes Research Foundation (JDRF) Walk,Downtown/Central,870 Carling Ave.,870 Carling Ave.,K1S 5S8
+848,Ottawa,2018,4,18,NA,IoT613,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+849,Ottawa,2018,4,4,NA,JW-Jones Live Album Recording,Aylmer Sector,120 Principale Street,120 Principale Street,J9H 3M3
+850,Ottawa,2018,4,17,NA,ODD is On,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+851,Ottawa,2018,5,2,NA,PBLI - National Indigenous Policing Forum,Downtown/Central,100 Kent Street,100 Kent Street,K1P 5N9
+852,Ottawa,2018,4,20,NA,Natural Women - Art Exhibition ,Downtown/Central,131 Loretta Avenue North,131 Loretta Avenue North,K1Y 2J7
+853,Ottawa,2018,2,1,NA,Cabane à sucre,Downtown/Central,300 des Pères-Blancs Avenue,300 des Pères-Blancs Avenue,K1L 7L5
+854,Ottawa,2018,4,14,NA,Spring into Art Conference and Luncheon,NA,1817 Richardson Side Road,1817 Richardson Side Road,K0A 1L0
+855,Ottawa,2018,4,13,NA,Yuri's Night,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+856,Ottawa,2018,4,7,NA,Requiem for Peace,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+857,Ottawa,2018,4,7,NA,Sci-Fi & Sundry Sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+858,Ottawa,2018,4,29,NA,Une Célébration Française,Downtown/Central,2345 Alta Vista Drive,2345 Alta Vista Drive,K1H 7M6
+859,Ottawa,2018,4,14,NA,CreActivity Club - Chives Hair-Do,Downtown/Central,300 des Pères-Blancs Avenue,300 des Pères-Blancs Avenue,K1L 7L5
+860,Ottawa,2018,4,26,NA,Opening Reception: Jennifer Anne Norman - Forest for the Trees ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+861,Ottawa,2018,4,26,NA,Jennifer Anne Norman - Forest for the Trees,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+862,Ottawa,2018,5,6,NA,Artist Talk: Jennifer Anne Norman - Forest for the Trees ,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+863,Ottawa,2018,4,19,NA,Josée Desjardins: My Mother’s Dress and My Father’s Pipes,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+864,Ottawa,2018,4,14,NA,Clara Kim - Passion within White Space,Rural South,5530 Manotick Main Street,5530 Manotick Main Street,K4M 1A3
+865,Ottawa,2018,4,14,NA,Spring Vintage Pop-up Shop,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+866,Ottawa,2018,4,3,NA,Beaux Rêves,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+867,Ottawa,2018,4,18,NA,Le silence d’une tragédie... ou La Mesure Humaine,Downtown/Central,135 Séraphin-Marion,135 Séraphin-Marion,K1N 6N5
+868,Ottawa,2018,5,11,NA,Nepali Gala 2018,West Ottawa,30 Cleary Avenue,30 Cleary Avenue,K2A 4A1
+869,Ottawa,2018,4,4,NA,Blink,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+870,Ottawa,2018,4,28,NA,"Spring craft, bake and rummage sale",NA,1156 Wellington Street West,1156 Wellington Street West,K1Y 2Z3
+871,Ottawa,2018,3,16,NA,A+ Exhibition,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+872,Ottawa,2018,5,13,NA,Sitar and Sufi Singing,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+873,Ottawa,2018,5,4,NA,The Subject is Light,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+874,Ottawa,2018,4,15,NA,Ottawa Junior Youth Orchestra Spring Concert,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+875,Ottawa,2018,4,28,NA,Voices in Harmony: A Springtime Choral Concert,West Ottawa,740 Melfa Crescent,740 Melfa Crescent,K2C0P2
+876,Ottawa,2018,4,14,NA,Ham Dinner,West Ottawa,740 Melfa Crescent,740 Melfa Crescent,K2C0P2
+877,Ottawa,2018,4,7,NA,Celebrate Her: Expressions of the Feminine,Downtown/Central,57 Lyndale Avenue,57 Lyndale Avenue,K1Y 2M6
+878,Ottawa,2018,4,22,NA,Upcycled Rubber Feather Earrings,Downtown/Central,555 Somerset Street West,555 Somerset Street West,K1R 5K1
+879,Ottawa,2018,4,20,NA,Timekode: April 2018 with guest DJ Illo ,Downtown/Central,164 Laurier Avenue West,164 Laurier Avenue West,K1P 5J4
+880,Ottawa,2018,4,18,NA,Fleurs de Villes’ Floral Mannequin Series ,West Ottawa,100 Bayshore Drive,100 Bayshore Drive,K2B 8C1
+881,Ottawa,2018,5,16,NA,The Art of the Brick Exhibit,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+882,Ottawa,2018,6,2,NA,M is for...,Downtown/Central,1230 Bank Street,1230 Bank Street,K1S 3Y3
+883,Ottawa,2018,4,12,NA,Parfocal Lens: Indigenous Praxis,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+884,Ottawa,2018,4,21,NA,Old Homes Earth Day Event,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+885,Ottawa,2018,5,5,NA,Jane's Walk Ottawa-Gatineau,Region Wide,-,-,K1A 0A4
+886,Ottawa,2018,4,14,NA,Book Signing with Michel Weatherall,Downtown/Central,2269 Riverside Drive,2269 Riverside Drive,K1H 1A1
+887,Ottawa,2018,4,28,NA,"Spring is in the Art, fine art show and sale",East Ottawa,210 Blackburn avenue,210 Blackburn avenue,K1N 8A8
+888,Ottawa,2018,5,6,NA,Jamie Anderson and Chris MacLean in concert,Downtown/Central,750 Gladstone Ave,750 Gladstone Ave,K1R 7B1
+889,Ottawa,2018,4,25,NA,Reportage as Superpower: A Conversation with Emily Steel ,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+890,Ottawa,2018,4,26,NA,Ottawa Grassroots Festival,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+891,Ottawa,2018,4,22,NA,Gypsy Muse: The music of Django Reinhardt,Downtown/Central,750 Gladstone Ave,750 Gladstone Ave,K1R 7B1
+892,Ottawa,2018,4,19,NA,Monster Making! Sculpture and Storytelling with Art in Jest,Downtown/Central,555 Somerset Street West,555 Somerset Street West,K1R 5K1
+893,Ottawa,2018,5,10,NA,Duplexity,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+894,Ottawa,2018,4,28,NA,Ottawa Art Gallery (OAG) Opening Weekend,Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+895,Ottawa,2018,5,5,NA,Seniors' Day,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+896,Ottawa,2018,4,20,NA,Dance! Salsa - Merengue - Bachata,East Ottawa,39 Dufferin Road,39 Dufferin Road,K1M 2H3
+897,Ottawa,2018,4,29,NA,The World of Georges Brassens,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+898,Ottawa,2018,4,21,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+899,Ottawa,2018,4,21,NA,613Flea,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+900,Ottawa,2018,4,21,NA,Ottawa Park Summit,Downtown/Central,10 Blackburn Avenue,10 Blackburn Avenue,K1N 6P9
+901,Ottawa,2018,4,21,NA,Ottawa Earth Day Party,Downtown/Central,251 Bank St. 2nd Floor,251 Bank St. 2nd Floor,K2P 1X3
+902,Ottawa,2018,5,11,NA,Quilt Show,West Ottawa,50 Capilano Drive,50 Capilano Drive,K2E 6G4
+903,Ottawa,2018,6,15,NA,Mentalism and Hypnosis Comedy Show,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+904,Ottawa,2018,4,21,NA,Rise Up Singing Voices Together,West Ottawa,30 Cleary Avenue,30 Cleary Avenue,K2A 4A1
+905,Ottawa,2018,4,22,NA,The Hidden Folk -  Faerie Lore in Music and Story Telling,Downtown/Central,760 Somerset St. West,760 Somerset St. West,K1R 6P9
+906,Ottawa,2018,5,12,NA,Ottawa Bird Day,Downtown/Central,1 Vimy Place,1 Vimy Place,K1A 0M8
+907,Ottawa,2018,5,12,NA,In the Merry Month of May - Sing my Spirit,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+908,Ottawa,2018,5,12,NA,Air Guitar Ottawa 2018 Championships,Downtown/Central,1077 Bank Street,1077 Bank Street,K1S 3W9
+909,Ottawa,2018,5,1,NA,Contrarians,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+910,Ottawa,2018,4,22,NA,Voices of Spring - Tribute Concert celebrating Luba Pope and Jadwiga Domanska,South Ottawa,2203 Alta Vista Drive,2203 Alta Vista Drive,K1H 7L9
+911,Ottawa,2018,5,12,NA,Longfields Manor Spring Sale,West Ottawa,330 Beatrice Drive,330 Beatrice Drive,K2J 5A5
+912,Ottawa,2018,4,29,NA,West Side Story Sing Along,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+913,Ottawa,2018,5,12,NA,57th Annual House and Garden Tour,Region Wide,-,-,K1A 0A4
+914,Ottawa,2018,6,1,NA,Mozart...a master for all time!,Downtown/Central,174 Wilbrod Street,174 Wilbrod Street,K1N 6N8
+915,Ottawa,2018,5,20,NA,Twenty-Five: Ireland’s National Card Game,Downtown/Central,310 St Patrick Street,310 St Patrick Street,K1N 5K5
+916,Ottawa,2018,4,29,NA,Touch a Truck Fundraiser,Rural South,2300 Community Way,2300 Community Way,K0A 2T0
+917,Ottawa,2018,5,25,NA,Lucid Dreams,West Ottawa,35 Stafford Road,35 Stafford Road,K2H 8V8
+918,Ottawa,2018,6,15,NA,Relay For Life - Canadian Cancer Society,West Ottawa,39 Colonnade Road,39 Colonnade Road,K2E 7J6
+919,Ottawa,2018,8,19,NA,Cycle for Sight,Rural West,3790 Carp Road,3790 Carp Road,K0A 1L0
+920,Ottawa,2018,5,13,NA,Road Waves CD Release Party,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+921,Ottawa,2018,6,23,NA,The Canadian Gaming Conference and Expo (CGX),East Ottawa,200 Coventry Road,200 Coventry Road,K1K 4S3
+922,Ottawa,2018,5,27,NA,Mélanie E. - The Year I Became Me,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+923,Ottawa,2018,6,2,NA,Spring  Romance,Downtown/Central,15 Aylmer Avenue,15 Aylmer Avenue,K1S 3X1
+924,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018,Region Wide,-,-,K1A 0A4
+925,Ottawa,2018,5,13,NA,Mother's Day Tea,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+926,Ottawa,2018,5,20,NA,Tune-Up and Roll Out,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+927,Ottawa,2018,4,13,NA,Makers at the Museum: Mother’s Day Relaxation Workshop,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+928,Ottawa,2018,5,13,NA,Families in Flux - Opening Day,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+929,Ottawa,2018,5,27,NA,Heritage Power,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+930,Ottawa,2018,5,18,NA,PD Day: Trolleys to Transitways ,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+931,Ottawa,2018,6,8,NA,PD Day: Baseball in Nepean,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+932,Ottawa,2018,5,19,NA,Orienteering Ottawa Field Day,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+933,Ottawa,2018,5,20,NA,Your Inner Engineer: Bridge Building,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+934,Ottawa,2018,4,29,NA,Nature’s Glory,West Ottawa,940 Rex Avenue,940 Rex Avenue,K2A 2P7
+935,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Billings Estate National Historic Site,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+936,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Cumberland Heritage Village Museum,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+937,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Pinhey's Point Historic Site,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+938,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Nepean Museum,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+939,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Fairfields Heritage Property,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+940,Ottawa,2018,5,12,NA,Navigating the Complexities of Health Care,East Ottawa,39 Dufferin Road,39 Dufferin Road,K1M 2H3
+941,Ottawa,2018,5,31,NA,Anna Eyler and Nicolas Lapointe - void loop(),Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+942,Ottawa,2018,5,26,NA,TealFest 2018 Garage Sale,East Ottawa,1585 Tenth Line Road,1585 Tenth Line Road,K1E 3E8
+943,Ottawa,2018,7,22,NA,Artists' Talk: Anna Eyler and Nicolas Lapointe - void loop(),Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+944,Ottawa,2018,5,12,NA,I Can’t Believe It’s Currency,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+945,Ottawa,2018,5,19,NA,Origami with a Pro,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+946,Ottawa,2018,5,30,NA,Ottawa Riverkeeper Annual Gala,Downtown/Central,50 Sussex Drive,50 Sussex Drive,K1M 2K1
+947,Ottawa,2018,5,10,NA,Mobius,Downtown/Central,35 George Street,35 George Street,K1N 8W5
+948,Ottawa,2018,6,7,NA,Favourite Arias,Downtown/Central,82 Kent Street,82 Kent Street,K1P 5N9
+949,Ottawa,2018,6,8,NA,Puccini Messa Di Gloria ,Downtown/Central,385 Sussex Drive,385 Sussex Drive,K1N 5H5
+950,Ottawa,2018,5,10,NA,Keepsake: Micah Adams and Amanda McCavour,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+951,Ottawa,2018,5,19,NA,Make-A-Wish's Royal-Tea Event,Downtown/Central,1 Rideau Street,1 Rideau Street,K1N 8S7
+952,Ottawa,2018,5,12,NA,Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+953,Ottawa,2018,5,26,NA,Ray Montford solo Concert,Gatineau Park/Chelsea,88 chemin Mill,88 chemin Mill,J9B 1K8
+954,Ottawa,2018,5,10,NA,Something Old and Something New,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+955,Ottawa,2018,5,5,NA,Launch Party: Beyond Planet Earth: The Future of Space Exploration Exhibition,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+956,Ottawa,2018,5,5,NA,CreActivity Club - Bird Feeder,Downtown/Central,300 des Pères-Blancs Avenue,300 des Pères-Blancs Avenue,K1L 7L5
+957,Ottawa,2018,5,19,NA,Sheep Shearing Festival,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+958,Ottawa,2018,9,20,NA,Breakfast on the Rideau,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+959,Ottawa,2018,5,11,NA,l i n g e r  and  l u r e - Sharon Kelly and Crystal Beshara,West Ottawa,358 Richmond Road,358 Richmond Road,K2A 0E8
+960,Ottawa,2018,5,26,NA,The Great Glebe Green Garage Sale 2018 ,Downtown/Central,640 Bank Street,640 Bank Street,K1S 3Z8
+961,Ottawa,2018,5,24,NA,James and the Giant Peach,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+962,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Central,Region Wide,-,-,K1A 0A4
+963,Ottawa,2018,6,2,NA,Doors Open Ottawa 2018 - Downtown,Region Wide,-,-,K1A 0A4
+964,Ottawa,2018,6,2,NA, Doors Open Ottawa 2018 - Villages,Region Wide,-,-,K1A 0A4
+965,Ottawa,2018,5,6,NA,Ottawa Youth Orchestra Academy Mini Concert,East Ottawa,"485 Donald Street,","485 Donald Street,",K1K 1L8
+966,Ottawa,2018,5,6,NA,Ottawa Youth Orchestra Academy Family Concert,Downtown/Central,1900 Dauphin Road,1900 Dauphin Road,K1G 2L7
+967,Ottawa,2018,6,8,NA,leMeow and Crystalena,NA,420 Riverside Drive,420 Riverside Drive,J0X 3G0
+968,Ottawa,2018,5,24,NA,Colloque - 150 d'éducation francophone au Canada,Downtown/Central,300 des Pères-Blancs Avenue,300 des Pères-Blancs Avenue,K1L 7L5
+969,Ottawa,2018,5,11,NA,Hello Studios Launch Party,West Ottawa,1735 Courtwood Crescent,1735 Courtwood Crescent,K2C 3J2
+970,Ottawa,2018,5,12,NA,Market Days - Pop-up Shop,West Ottawa,1735 Courtwood Crescent,1735 Courtwood Crescent,K2C 3J2
+971,Ottawa,2018,5,13,NA,Mother's Day Tea Party,West Ottawa,1735 Courtwood Crescent,1735 Courtwood Crescent,K2C 3J2
+972,Ottawa,2018,5,26,NA,Les Misérables...et autres moments comiques de la scène,East Ottawa,1111 Orleans Boulevard,1111 Orleans Boulevard,K1C 7C8
+973,Ottawa,2018,6,7,NA,Ten Cities: The Past is Present,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+974,Ottawa,2018,5,12,NA,Global Pet Foods Kanata 9th Anniversary,West Ottawa,700 Eagleson Road,700 Eagleson Road,K2M 2G9
+975,Ottawa,2018,6,9,NA,Ottawa Stroll for Liver,South Ottawa,Vincent Massey Park,Vincent Massey Park,K1S 5B7
+976,Ottawa,2018,5,13,NA,Justin Duhaime Quartet plays the music of Django Reinhardt,Downtown/Central,750 Gladstone Ave,750 Gladstone Ave,K1R 7B1
+977,Ottawa,2018,6,9,NA,What Sweeter Music: John Rutter Choral Reading,West Ottawa,630 Island Park Drive,630 Island Park Drive,K1Y 0B7
+978,Ottawa,2018,5,31,NA,Community Builder of the Year Awards Gala,Downtown/Central,55 Colonel By Drive,55 Colonel By Drive,K1N 9J2
+979,Ottawa,2018,6,10,NA,Touch a Truck,West Ottawa,2525 Carling Avenue,2525 Carling Avenue,K2B 7Z2
+980,Ottawa,2018,5,15,NA,kele fleming in concert,Downtown/Central,692 Somerset St W,692 Somerset St W,K1R 6P4
+981,Ottawa,2018,5,11,NA,Mother's Day Cardmaking,Downtown/Central,41 York St,41 York St,K1N 5P5
+982,Ottawa,2018,6,2,NA,Red Trillium Studio and Garden Tour,Rural West,-,-,K0A 2H0
+983,Ottawa,2018,6,9,NA,Yo ho ho: Raise a Glass to Franklin!,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+984,Ottawa,2018,5,19,NA,Faces of Humanity,Downtown/Central,1 Vimy Place,1 Vimy Place,K0A 0M8
+985,Ottawa,2018,6,3,NA,Sunday Afternoon at the Opera,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+986,Ottawa,2018,6,7,NA,Up Country - Kathy M Haycock - opening night,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+987,Ottawa,2018,6,29,NA,Soca Boat,Hull Sector,895 Jacques Cartier,895 Jacques Cartier,J8T 2W3
+988,Ottawa,2018,6,29,NA,007 Casino Night Fundraiser,Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+989,Ottawa,2018,5,19,NA,Danielle Allard CD Release Party!,West Ottawa,70 Bongard Avenue,70 Bongard Avenue,K2E 6V2
+990,Ottawa,2018,5,17,NA,Kira Isabella,West Ottawa,"1711, rue Merivale","1711, rue Merivale",K2E 8B8
+991,Ottawa,2018,5,23,NA,The Sorority: Pledge Tour,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+992,Ottawa,2018,5,31,NA,Ask Women Anything - Women Disrupting the Film Landscape,Downtown/Central,692 Somerset St W,692 Somerset St W,K1R 6P4
+993,Ottawa,2018,7,22,NA,Playing It Forward for Wishes,Rural East,1956 8th Line Road,1956 8th Line Road,K0A 1W0
+994,Ottawa,2018,6,9,NA,Latin Sparks Festival ,Downtown/Central,6 Booth Street,6 Booth Street,K2H 8NS
+995,Ottawa,2018,5,30,NA,Bullied to Breaking Point - Film Premiere,Downtown/Central,1385 Wellington Street West,1385 Wellington Street West,K1Y 2X1
+996,Ottawa,2018,6,9,NA,St Pius X High School 60th Anniversary Alumni Night,West Ottawa,1481 Fisher Avenue,1481 Fisher Avenue,K2C 1X4
+997,Ottawa,2018,5,14,NA,Exposition photos - Au cœur de mai 68,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+998,Ottawa,2018,5,22,NA,Ciné-club et discussion Le Choix de Théo,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+999,Ottawa,2018,6,15,NA,Rope for Hope - Make-A-Wish Eastern Ontario,West Ottawa,525 Legget Dr,525 Legget Dr,K2K 2W2
+1000,Ottawa,2018,6,17,NA,Vintage Car Show,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1001,Ottawa,2018,6,9,NA,Makers at the Museum: A Plein Air Watercolour Workshop,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1002,Ottawa,2018,6,16,NA,"Kahise, Kubu na Kazoza",West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+1003,Ottawa,2018,6,16,NA,Bloomsday Afternoon Tea,Downtown/Central,310 St Patrick Street,310 St Patrick Street,K1N 5K5
+1004,Ottawa,2018,6,2,NA,Year End Fundraising Concert,South Ottawa,2203 Alta Vista Drive,2203 Alta Vista Drive,K1H 7L9
+1005,Ottawa,2018,6,9,NA,Spring Concert,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+1006,Ottawa,2018,8,5,NA,Environmental Action Day,Downtown/Central,25 Range Road,25 Range Road,K1N 8J7
+1007,Ottawa,2018,6,2,NA,Lantern Lit Labryinth Walk,Downtown/Central,1 Windsor Avenue,1 Windsor Avenue,K1S 0W3
+1008,Ottawa,2018,6,9,NA,The New Art Festival,Downtown/Central,Corner of Bank St. and Clemow Ave.,Corner of Bank St. and Clemow Ave.,K1S 3T8
+1009,Ottawa,2018,6,14,NA,Festival Flamenco Capitale 2018,Region Wide,-,-,K1A 0A4
+1010,Ottawa,2018,6,14,NA,Flashmob Flamenco,Downtown/Central,55 Byward Market Square,55 Byward Market Square,K1N 5S7
+1011,Ottawa,2018,6,22,NA,Fluid Art Exhibit by Raelene Bergen Harder,West Ottawa,356 Richmond Road,356 Richmond Road,K2A 0E1
+1012,Ottawa,2018,5,28,NA,Forever Against Animal Testing (FAAT) Pet March,Downtown/Central,35 O'Connor St,35 O'Connor St,K1P 5M4
+1013,Ottawa,2018,8,18,NA,Westboro Fuse Street Festival,West Ottawa,653 Mansfield Avenue,653 Mansfield Avenue,K2A 2T5
+1014,Ottawa,2018,6,15,NA,Movie Night - Muppet Treasure Island,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1015,Ottawa,2018,6,21,NA,The Mill Night Shift,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1016,Ottawa,2018,6,24,NA,Ice Cream Lawn Social,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1017,Ottawa,2018,7,1,NA,Canada Day Celebrations,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1018,Ottawa,2018,9,14,NA,Scotch Whiskey Tasting,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1019,Ottawa,2018,6,12,NA,OrKidstra End-of-Year Concert,Downtown/Central,212 Glebe Avenue,212 Glebe Avenue,K1S2C9
+1020,Ottawa,2018,5,28,NA,Conference: Les bouleversements sociaux de la fin des années 60 ,Downtown/Central,42 Sussex Drive,42 Sussex Drive,K1M 2C9
+1021,Ottawa,2018,10,6,NA,Harvest Festival,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1022,Ottawa,2018,10,18,NA,Haunt Nights,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1023,Ottawa,2018,11,17,NA,Christmas Craft Market,South Ottawa,5525 Dickinson Street,5525 Dickinson Street,K4M 1A2
+1024,Ottawa,2018,6,9,NA,Fifth Ottawa Dance Directive Dance (ODD) Class Marathon Fundraiser ,Downtown/Central,2 Daly Ave,2 Daly Ave,K1N 6E2
+1025,Ottawa,2018,5,18,NA,Plant Portraits: Native Plants of Canada,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1026,Ottawa,2018,5,25,NA,Canadiana: Selections from the Art Bank Collection,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+1027,Ottawa,2018,6,16,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1028,Ottawa,2018,6,16,NA,Father’s Day BBQ: From Grain to Glass,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1029,Ottawa,2018,6,17,NA,'Pop' Culture,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1030,Ottawa,2018,6,2,NA,Firefighters’ Day,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1031,Ottawa,2018,6,17,NA,Settler Survival,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+1032,Ottawa,2018,6,2,NA,Doors Open Ottawa at the Canada Council Art Bank,East Ottawa,921 St-Laurent Boulevard,921 St-Laurent Boulevard,K1K 2S6
+1033,Ottawa,2018,6,8,NA,Aladdin Jr.,West Ottawa,1 Ron Maslin Way,1 Ron Maslin Way,K2V 1A7
+1034,Ottawa,2018,6,5,NA,Indigenous Writers’ Gathering,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+1035,Ottawa,2018,7,12,NA,René Price - The Art of City Building,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1036,Ottawa,2018,6,2,NA,Curiosity on Stage - Let's do laundry like it's 1918! Why do curators collect artifacts?,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+1037,Ottawa,2018,8,19,NA,Artist Talk and Walk About - René Price – The Art of City Building,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1038,Ottawa,2018,7,13,NA,An Evening of Laughter,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+1039,Ottawa,2018,6,11,NA, Provincial Guidelines for Epilepsy Care,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+1040,Ottawa,2018,6,23,NA,Indigenous Day Live,South Ottawa,Vincent Massey Park,Vincent Massey Park,K1S 5B7
+1041,Ottawa,2018,6,23,NA,Mikhail Laxton Band,Downtown/Central,145 Loretta Avenue North,145 Loretta Avenue North,K1Y 4W5
+1042,Ottawa,2018,6,15,NA,Flamenco desde aquí,Aylmer Sector,120 Principale Street,120 Principale Street,J9H 3M3
+1043,Ottawa,2018,6,16,NA,Al Compás del Aire,Aylmer Sector,120 Principale Street,120 Principale Street,J9H 3M3
+1044,Ottawa,2018,6,10,NA,Impromptu - Harp Recital,Downtown/Central,153 Woodroffe Ave.,153 Woodroffe Ave.,K2A 3T8
+1045,Ottawa,2018,5,28,NA,Masters of Relief at the Bank of Canada Museum!,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+1046,Ottawa,2018,6,29,NA,The National Portrait,Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+1047,Ottawa,2018,6,9,NA,Etsy Made in Canada Spring,West Ottawa,1565 Maple Grove Street,1565 Maple Grove Street,K2V 1A3
+1048,Ottawa,2018,7,7,NA,Arise – Rise of the Indie-author,West Ottawa,5703 Hazeldean Road,5703 Hazeldean Road,K2S 0P6
+1049,Ottawa,2018,6,16,NA,Canada's Homefront Kitchen Party,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1050,Ottawa,2018,7,1,NA,Canada Day at Cumberland Heritage Village Museum,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1051,Ottawa,2018,7,15,NA,Classic Car Show,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1052,Ottawa,2018,6,9,NA,Karaoke Saturdays,West Ottawa,675 Kirkwood Avenue,675 Kirkwood Avenue,K1Z 8N7
+1053,Ottawa,2018,6,18,NA,Hertiage Walk - Little Italy,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1054,Ottawa,2018,6,19,NA,Heritage Walk - Lowertown West,Downtown/Central,145 Cathcart Street,145 Cathcart Street,K1N 5B8
+1055,Ottawa,2018,6,20,NA,Heritage Walk - Vanier,Downtown/Central,262 Montreal Road,262 Montreal Road,K1L 6C3
+1056,Ottawa,2018,6,21,NA,Heritage Walk - Chinatown ,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1057,Ottawa,2018,6,22,NA,Heritage Walk - Vanier,Downtown/Central,262 Montreal Road,262 Montreal Road,K1L 6C3
+1058,Ottawa,2018,6,23,NA,Heritage Walk - Chinatown ,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1059,Ottawa,2018,6,24,NA,Heritage Walk - Lowertown East,Downtown/Central,40 Cobourg Street,40 Cobourg Street,K1N 8Z6
+1060,Ottawa,2018,6,26,NA,Hertiage Walk - Little Italy,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1061,Ottawa,2018,6,27,NA,Heritage Walk - Lowertown West,Downtown/Central,145 Cathcart Street,145 Cathcart Street,K1N 5B8
+1062,Ottawa,2018,6,28,NA,Hertiage Walk - Little Italy,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1063,Ottawa,2018,6,29,NA,Heritage Walk - Lowertown East,Downtown/Central,40 Cobourg Street,40 Cobourg Street,K1N 8Z6
+1064,Ottawa,2018,6,30,NA,Heritage Walk - Chinatown ,Downtown/Central,930 Somerset Street West,930 Somerset Street West,K1R 6R9
+1065,Ottawa,2018,7,4,NA,All That Jazz,Downtown/Central,215 Preston St.,215 Preston St.,K1R 7R1
+1066,Ottawa,2018,6,17,NA,Break Free 5K Ottawa,West Ottawa,1369 Carling Avenue,1369 Carling Avenue,K2H 1B8
+1067,Ottawa,2018,6,15,NA,Catch My Drift: Genevieve Scott with Jared Young,Downtown/Central,35 Beechwood Ave,35 Beechwood Ave,K1M 1M1
+1068,Ottawa,2018,8,18,NA,Just Fore Dogs Third Annual Golf Tournament,West Ottawa,56 Cedarhill Drive,56 Cedarhill Drive,K2R 1C5
+1069,Ottawa,2018,6,23,NA,Canadian Trivi-eh,West Ottawa,3500 Fallowfield Road,3500 Fallowfield Road,K2J 4A7
+1070,Ottawa,2018,6,16,NA,Charles Spratt: Spring Arrival - Vernissage,Rural South,5530 Manotick Main Street,5530 Manotick Main Street,K4M 1A3
+1071,Ottawa,2018,7,1,NA,Picnic at Park Hill,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1072,Ottawa,2018,7,5,NA,Paleontology: Fossil Dig,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1073,Ottawa,2018,7,11,NA,Victorian Medical Practices,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1074,Ottawa,2018,7,15,NA,Book Signing With Author Barbara Avon,East Ottawa,2025 Mer-Bleue Road,2025 Mer-Bleue Road,K4A 3T9
+1075,Ottawa,2018,6,7,NA,Aashirvaad,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+1076,Ottawa,2018,7,1,NA,Canada Day at the Aviation and Space Museum,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1077,Ottawa,2018,6,16,NA,Dusk Series: Creatures of the Night,Gatineau Park/Chelsea,33 Scott Road,33 Scott Road,NA
+1078,Ottawa,2018,6,21,NA,Summer Solstice Indigenous Festival and Competition Pow Wow 2018,South Ottawa,Vincent Massey Park,Vincent Massey Park,K1S 5B7
+1079,Ottawa,2018,6,23,NA,Korean Culture Fair 2018,Downtown/Central,150 Elgin Street,150 Elgin Street,K2P 1L4
+1080,Ottawa,2018,7,1,NA,Canada Day at the Bank of Canada Museum: Women on Currency,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+1081,Ottawa,2018,7,1,NA,Canada Day at Laurier House National Historic Site,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1082,Ottawa,2018,7,1,NA,Canada Day at the Ottawa Rowing Club,Downtown/Central,10 Lady Grey Drive,10 Lady Grey Drive,K1A 0G2
+1083,Ottawa,2018,6,22,NA,The Senate Send-Off - Climb for Kids,Downtown/Central,1159 Bank Street,1159 Bank Street,K1S 0W1
+1084,Ottawa,2018,6,28,NA,"Krista Jane – ""Tomorrow"" EP release",Downtown/Central,56 Byward Market,56 Byward Market,K1N7A2
+1085,Ottawa,2018,6,26,NA,Cobario The New Austrian Sound of Music,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+1086,Ottawa,2018,7,1,NA,Canada Day at the Canada Agriculture and Food Museum,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1087,Ottawa,2018,6,23,NA,Sogetsu Ikebana Exhibition,Downtown/Central,255 Sussex Drive,255 Sussex Drive,K1N 9E6
+1088,Ottawa,2018,7,1,NA,Canada Day at the Canada Science and Technology Museum,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+1089,Ottawa,2018,6,20,NA,Vernissage: Thunderstruck,Downtown/Central,150 Elgin Street,150 Elgin Street,K1P 5V8
+1090,Ottawa,2018,6,21,NA,Unceded 2018: Indigenous and Latin Showcase,Downtown/Central,665 Bronson Ave,665 Bronson Ave,K1S 4E7
+1091,Ottawa,2018,7,21,NA,Robbie Craig and Adam Young Art Show and Sale,East Ottawa,1199 Joseph Cyr Street,1199 Joseph Cyr Street,K1J 7T1
+1092,Ottawa,2018,8,11,NA,4th Annual West End Food Truck Rally,West Ottawa,3861 Old Richmond Road,3861 Old Richmond Road,K2H 5C1
+1093,Ottawa,2018,6,20,NA,Thunderstruck: Physical Landscapes,Downtown/Central,150 Elgin Street,150 Elgin Street,K1P 5V8
+1094,Ottawa,2018,9,22,NA,Neon Night Kemptville,NA,200 Reuben Crescent,200 Reuben Crescent,K0G 1J0
+1095,Ottawa,2018,7,28,NA,Gatineau Riverfest,Gatineau Park/Chelsea,309 Chemin de la Rivière,309 Chemin de la Rivière,J9B 2M6
+1096,Ottawa,2018,10,4,NA,Voices of Women,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1097,Ottawa,2018,7,28,NA,5K Foam Fest,Rural East,4565 Dunning Road,4565 Dunning Road,K4B 1J1
+1098,Ottawa,2018,6,15,NA,Luminita Serbanescu - Back to Basics,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G5K9
+1099,Ottawa,2018,8,4,NA,Casino Lac-Leamy Sound of Light Fireworks at the Bytown Museum,Downtown/Central,1 Canal Lane,1 Canal Lane,K1P1L1
+1100,Ottawa,2018,5,17,NA,Art at your doorstep,Region Wide,-,-,K1A 0A4
+1101,Ottawa,2018,7,20,NA,2018 Capital Ukrainian Festival,South Ottawa,952 Green Valley Crescent,952 Green Valley Crescent,K2C 3K7
+1102,Ottawa,2018,9,14,NA,Wild Kratts Live 2.0 - Activate Creature Power!,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1103,Ottawa,2018,8,10,NA,The Great India Festival 2018,Downtown/Central,110 Laurier Ave W,110 Laurier Ave W,K1P 1J1
+1104,Ottawa,2018,10,3,NA,"Breaking Bread, Breaking Stigma",Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1105,Ottawa,2018,10,13,NA,Kick It: A Dance Club for Kids,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1106,Ottawa,2018,10,17,NA,Ricky Skaggs and Kentucky Thunder,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1107,Ottawa,2018,7,8,NA,Hands on History: Musket Firing,Rural West,2064 Huntley Road,2064 Huntley Road,K2S 1B8
+1108,Ottawa,2018,7,20,NA,Patricia Kenny: Rebirth,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G5K9
+1109,Ottawa,2018,8,24,NA,Ming Shui Jang: From East to West; Modern Paintings by Ming Shui Jang,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G5K9
+1110,Ottawa,2018,8,5,NA,Amazing Thailand Festival 2018,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1111,Ottawa,2019,2,15,NA,Joy Kardish: Transference,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G5K9
+1112,Ottawa,2018,6,14,NA,Marc Gagne: Out of the Past,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1113,Ottawa,2018,8,23,NA,Diane Laundy: Kaleidos,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1114,Ottawa,2018,7,15,NA,Adèle Gauthier: Poétique,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1115,Ottawa,2018,8,23,NA,Sanjay Sundram: Silent Cities,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1116,Ottawa,2018,10,18,NA,Nancy Halpin: River's Edge,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1117,Ottawa,2018,11,22,NA,A. M. Benz: Achromatically Inclined,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1118,Ottawa,2019,1,10,NA,Ralph Nevins: Cirrus'ly,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1119,Ottawa,2019,2,10,NA,Arteast: Mosaic,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1120,Ottawa,2018,11,18,NA,Mario Cerroni: Double Vision,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1121,Ottawa,2019,1,10,NA,Ottawa Watercolour Society: Brush and Water,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1122,Ottawa,2018,7,21,NA,Justin Duhaime Quartet plays the music of Django Reinhardt,Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+1123,Ottawa,2018,7,5,NA,Summer Series 2018,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+1124,Ottawa,2018,10,21,NA,Tea With A Spot of the Classics,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1125,Ottawa,2018,10,26,NA,Dueling Magicians,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1126,Ottawa,2018,10,27,NA,The Paper Bag Princess: A Musical,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1127,Ottawa,2018,11,3,NA,Yaki's Rockin' & Hoppin' Sing-Along,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1128,Ottawa,2018,9,14,NA,Swan River by Skeleton Key Theatre,East Ottawa,727 Trim Road,727 Trim Road,K4A 3P4
+1129,Ottawa,2018,10,11,NA,Cowboy Junkies,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1130,Ottawa,2018,10,13,NA,Les bâtons by Tara Luz Danse,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1131,Ottawa,2018,10,23,NA,Thank you For Being A Friend,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1132,Ottawa,2018,11,10,NA,Make Believe - Magic of your Mind,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1133,Ottawa,2018,7,26,NA,Raising Stanley / Life With Tulia,Downtown/Central,1233 Wellington St. West.,1233 Wellington St. West.,K1Y 0G7
+1134,Ottawa,2018,7,14,NA,East Ottawa Wine and Cheese Tour,Region Wide,-,-,K1A 0A4
+1135,Ottawa,2018,7,21,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1136,Ottawa,2018,7,17,NA,The Riparians,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1137,Ottawa,2018,9,9,NA,Wiggle Waggle Walk and Run,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1138,Ottawa,2018,11,9,NA,The Grey Jazz Big Band- A Concert To Remember,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1139,Ottawa,2018,11,21,NA,Classic Albums Live: AC/DC - Back in Black,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1140,Ottawa,2018,11,24,NA,Baz'art - Holiday Arts Market,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+1141,Ottawa,2018,12,1,NA,Royal Wood with special guest Elise LeGrow,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1142,Ottawa,2018,7,22,NA,Fourteenth Annual Natsu Matsuri Summer Festival,Downtown/Central,110 Laurier Ave W,110 Laurier Ave W,K1P 1J1
+1143,Ottawa,2018,6,29,NA,The Royal Canadian Geographic Society Summer Exhibits,Downtown/Central,50 Sussex Drive,50 Sussex Drive,K1M 2K1
+1144,Ottawa,2018,8,19,NA,Eitetsu Hayashi Japanese Taiko Drum Concert,Hull Sector,100 Laurier Street,100 Laurier Street,K1A 0M8
+1145,Ottawa,2018,11,8,NA,2018 Petro-Canada Sport Leadership Conference,Downtown/Central,11 Colonel By Drive,11 Colonel By Drive,K1N 9H4
+1146,Ottawa,2018,7,20,NA,Canadian Stone Carving Festival 2018,Downtown/Central,35 O'Connor St,35 O'Connor St,K1P 5M4
+1147,Ottawa,2018,7,12,NA,Red and White Ball,West Ottawa,"102 Greenview Drive, Britannia Park","102 Greenview Drive, Britannia Park",K2B 8J8
+1148,Ottawa,2018,12,31,NA,Eighth Annual New Year's Eve Comedy Night,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1149,Ottawa,2019,3,3,NA,Café Classico - Lansdowne String Quartet,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+1150,Ottawa,2019,3,24,NA,Opera Candy : The Gourmet Adventures of Hansel and Gretel,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1151,Ottawa,2018,8,1,NA,Archaeology Exhibit,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1152,Ottawa,2018,8,12,NA,LeBreton Flats:  An Archaeological Tour,Downtown/Central,1 Vimy Place,1 Vimy Place,K0A 0M8
+1153,Ottawa,2018,8,1,NA,Archaeology Month: Behind-the-scenes Facility Tours,Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+1154,Ottawa,2019,4,6,NA,Will's Jams Live - Will Stroet,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1155,Ottawa,2019,4,10,NA,Classic Albums Live: Fleetwood Mac - Rumours,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1156,Ottawa,2018,8,11,NA,Camino Flamenco,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+1157,Ottawa,2018,7,14,NA,Roger Ballen: There Is No Outside,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+1158,Ottawa,2018,7,17,NA,Political cartoons and landscapes of Josh Silburt,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1159,Ottawa,2018,7,21,NA,Sweet Picnic Tea on the Veranda  ,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1160,Ottawa,2018,7,24,NA,"Fact of Fiction: Gossip, scandals and scantily clad puppies! ",Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1161,Ottawa,2018,11,16,NA,Dueling Pianos,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1162,Ottawa,2018,12,13,NA,JW Jones & Friends: Home for the Holidays,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1163,Ottawa,2018,7,27,NA,Maker of Monsters ,Downtown/Central,516 Somerset Street,516 Somerset Street,K1R 5W6
+1164,Ottawa,2018,8,18,NA,Nick Maclean Quartet featuring Brownman Ali,Downtown/Central,"135 1/2, Besserer Street","135 1/2, Besserer Street",K1N 6A7
+1165,Ottawa,2018,8,8,NA,St Pius X 60th Anniversary Charity Golf Tournament,South Ottawa,4335 Hawthorne Road,4335 Hawthorne Road,K1G 3N4
+1166,Ottawa,2018,8,11,NA,Michelob Ultra - Ultra Night Run,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1167,Ottawa,2018,7,27,NA,Nelly Matorina : Don't Forget to Call,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 6E2
+1168,Ottawa,2018,7,27,NA,In Between Remembering: Intergenerational Practice,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 9M7
+1169,Ottawa,2018,8,25,NA,TealFest Music Festival and Bazaar,East Ottawa,300 Coventry Road,300 Coventry Road,K1K 4P5
+1170,Ottawa,2018,8,7,NA,Home Lands,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1171,Ottawa,2018,12,30,NA,Salute to Vienna New Year's Concert,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1172,Ottawa,2018,8,18,NA,PwC MS Bike - Ottawa to Cornwall ,South Ottawa,2785 8th Line,2785 8th Line,K0A 2P0
+1173,Ottawa,2018,12,16,NA,Tea With A Side of Holly,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1174,Ottawa,2018,8,30,NA,Opening Reception: Pierre Richardson - What's Big and Small at the Same Time?,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1175,Ottawa,2018,8,16,NA,Pierre Richardson - What's Big and Small at the Same Time?,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1176,Ottawa,2018,8,11,NA,Art in Strathcona Park 2018,Downtown/Central,25 Range Road,25 Range Road,K1N 8J7
+1177,Ottawa,2018,8,18,NA,007 Casino Night Fundraiser,Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+1178,Ottawa,2018,9,27,NA,Broadway for Bruyère: School of Rock,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1179,Ottawa,2018,10,14,NA,Blackburn Hamlet Cancer Chase,East Ottawa,1660 Bearbrook Road,1660 Bearbrook Road,K1B 1C4
+1180,Ottawa,2018,9,27,NA,Soiree Salus,Downtown/Central,42 Sussex Drive,42 Sussex Drive,K1M 2C9
+1181,Ottawa,2018,10,25,NA,Ballade transcanadienne,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+1182,Ottawa,2018,9,7,NA,Laurier House Whiskey Tasting,Downtown/Central,"335 Laurier Avenue, East","335 Laurier Avenue, East",K1N 6R4
+1183,Ottawa,2018,9,28,NA,JW-Jones cd release party,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+1184,Ottawa,2018,8,23,NA,North of Nightfall Screening,Downtown/Central,50 Sussex Drive,50 Sussex Drive,K1M 2K1
+1185,Ottawa,2018,9,22,NA,Bicycle Film Festival,Downtown/Central,292 Elgin Street,292 Elgin Street,K2P 1M3
+1186,Ottawa,2018,9,29,NA,Glebestock,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1187,Ottawa,2018,9,13,NA,Adrienne Scott - Magpie Landscapes,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1188,Ottawa,2018,10,21,NA,Artist Talk: Adrienne Scott - Magpie Landscapes,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1189,Ottawa,2018,9,4,NA,Verdant,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1190,Ottawa,2018,9,15,NA,Charity block party,West Ottawa,1 Tartan Drive,1 Tartan Drive,K2J 2W7
+1191,Ottawa,2018,10,18,NA,38th Annual Reach Celebrity Auction,South Ottawa,700 Ridgewood Ave.,700 Ridgewood Ave.,K1V 6N1
+1192,Ottawa,2018,9,21,NA,Fifty-Five Plus Lifestyle Show,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+1193,Ottawa,2018,9,8,NA,Throwing Graceful Forms with Paula Murray,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1194,Ottawa,2018,9,7,NA,One Night on the Wheel,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1195,Ottawa,2018,9,30,NA,Pro Organo: Organist Pascale Rouet in concert,Downtown/Central,25 Bruyère Street,25 Bruyère Street,K1N 5C8
+1196,Ottawa,2018,10,26,NA,Pro Organo: Organist Philip Crozier in concert,Downtown/Central,523 Old St Patrick Street,523 Old St Patrick Street,K1N 5L5
+1197,Ottawa,2018,10,16,NA,Makem & Clancy - The Next Generation Tour,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1198,Ottawa,2018,9,8,NA,Bug Day!,Downtown/Central,861 Prince of Wales Dr.,861 Prince of Wales Dr.,K2C 3R6
+1199,Ottawa,2018,11,3,NA,Eleventh Hour - The Armistice Centennial – A Musical Commemoration,Downtown/Central,1 Vimy Place,1 Vimy Place,K0A 0M8
+1200,Ottawa,2018,9,26,NA,Ottawa International Animation Festival 2018 ,Region Wide,-,-,K1A 0A4
+1201,Ottawa,2018,10,3,NA,Feast of Fields,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K2P 2L7
+1202,Ottawa,2018,10,28,NA,Ottawa Fire Truck Pull,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1203,Ottawa,2018,9,22,NA,2018 Ottawa Pinball and Gameroom Show ,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+1204,Ottawa,2018,10,2,NA,Academy of St Martin in the Fields,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1205,Ottawa,2018,10,18,NA,Angela Hewitt: Bach Odyssey VII,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1206,Ottawa,2018,11,6,NA,ECM+ Generation 2018,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1207,Ottawa,2018,9,20,NA,Chamberfest Inaugural Gala,South Ottawa,2901 Gibford Drive,2901 Gibford Drive,K1V 2L9
+1208,Ottawa,2018,11,17,NA,New Orford String Quartet,Downtown/Central,380 Sussex Drive,380 Sussex Drive,K1N 9N4
+1209,Ottawa,2018,12,14,NA,Silver and Gold (Night 1 and 2),Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1210,Ottawa,2018,9,15,NA,Bonsai Art Exhibition 2018,Downtown/Central,255 Sussex Drive,255 Sussex Drive,K1N 9E6
+1211,Ottawa,2019,1,18,NA,Angela Hewitt: Bach Odyssey VIII,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1212,Ottawa,2019,2,1,NA,Gryphon Trio with Nordic Voices,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1213,Ottawa,2019,2,16,NA,Romero Guitar Quartet,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1214,Ottawa,2019,3,4,NA,Cuarteto Casals,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1215,Ottawa,2019,4,7,NA,Vienna Boys Choir,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1216,Ottawa,2019,5,8,NA,Mischa Maisky,Downtown/Central,355 Cooper Street,355 Cooper Street,K2P 0G8
+1217,Ottawa,2018,9,15,NA,Sam Kirmayer Trio featuring Ben Paterson,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+1218,Ottawa,2018,9,14,NA,Parfocal Lens: Debating Ballen,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+1219,Ottawa,2018,9,22,NA,La Fête FrancOrléans,East Ottawa,500 Millennium Blvd.,500 Millennium Blvd.,K4A 4X3
+1220,Ottawa,2018,8,25,NA,Fifteenth National Jewellery Student Competition Exhibition ,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+1221,Ottawa,2018,9,1,NA,Fall into Harvest,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1222,Ottawa,2018,9,15,NA,Fairfields Heritage Harvest,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1223,Ottawa,2018,9,1,NA,Horaceville Harvest,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+1224,Ottawa,2018,9,15,NA,Fall into Vintage at Makerspace north,Downtown/Central,250 City Centre Avenue,250 City Centre Avenue,K1R 1C7
+1225,Ottawa,2018,9,20,NA,Food for Thought - Worms in Your Kitchen: The Hows and Whys of Vermicomposting,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1226,Ottawa,2018,9,24,NA,Café-Croissant-Jaseries,NA,55 Byward Market Square,55 Byward Market Square,K1N 9C3
+1227,Ottawa,2018,11,17,NA,Ottawa Adventure Film Festival 2018,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+1228,Ottawa,2018,10,27,NA,Twelfth Annual Great Pumpkin Charity Ball,Downtown/Central,310 St. Patrick St.,310 St. Patrick St.,K1N 5K5
+1229,Ottawa,2018,9,15,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1230,Ottawa,2018,10,11,NA,Cheryl Pagurek – Fragile,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1231,Ottawa,2018,11,18,NA,Q and A with the artist: Cheryl Pagurek – Fragile,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1232,Ottawa,2018,10,11,NA,Opening Reception: Cheryl Pagurek – Fragile,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1233,Ottawa,2018,10,12,NA,Haunted House on the Hill,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1234,Ottawa,2018,10,6,NA,Snaggle featuring Brownman Ali,Downtown/Central,"135 1/2, Besserer Street","135 1/2, Besserer Street",K1N 6A7
+1235,Ottawa,2018,9,27,NA,"Série Danse 10 #31 - Lesandra Dodson, Crazy Smooth, FloorPlay",Downtown/Central,2 Daly Ave,2 Daly Ave,K1N 6E2
+1236,Ottawa,2018,9,29,NA,Step into the Studio,East Ottawa,245 Centrum Blvd.,245 Centrum Blvd.,K1E 0A1
+1237,Ottawa,2018,10,1,NA,Curious and Kind,Downtown/Central,57 Lyndale Avenue,57 Lyndale Avenue,K1Y 2M6
+1238,Ottawa,2018,11,17,NA,GoSalsa 12th Christmas Gala Extravaganza,Hull Sector,331 Boulevard de la Cité-des-Jeunes,331 Boulevard de la Cité-des-Jeunes,J8Y 6T3
+1239,Ottawa,2018,9,29,NA,Culture Days,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1240,Ottawa,2018,10,17,NA, Empyrean,Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+1241,Ottawa,2018,10,28,NA,Halloween Hijinks,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1242,Ottawa,2018,9,11,NA,The World Remembers,Downtown/Central,2 Rideau Street,2 Rideau Street,K1N 8X5
+1243,Ottawa,2018,10,13,NA,Second Annual Mad Crafters Tea Party and Market ,West Ottawa,103 Malvern Drive,103 Malvern Drive,K2J 4T2
+1244,Ottawa,2018,10,11,NA,Sand Mandala 2018,Downtown/Central,"110, Laurier street West","110, Laurier street West",K1P 1J1
+1245,Ottawa,2018,10,11,NA,TimeLess,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1246,Ottawa,2018,10,25,NA,Nepean Seniors Recreation Centre Open House,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+1247,Ottawa,2018,10,21,NA,Fairy Tale Frightfest,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1248,Ottawa,2018,10,21,NA,Haunted Horaceville,Rural West,270 Pinhey's Point Rd,270 Pinhey's Point Rd,K0A 1T0
+1249,Ottawa,2018,9,28,NA,Acres of Terror,Rural South,1480 County Road 32,1480 County Road 32,K0A 1R0
+1250,Ottawa,2018,11,17,NA,2018 Gift of Art Show and Sale,West Ottawa,2500 Campeau Drive,2500 Campeau Drive,k2k 2w3
+1251,Ottawa,2018,10,16,NA,Tranquility,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1252,Ottawa,2018,10,18,NA,Uncork,Downtown/Central,254 Preston Street,254 Preston Street,K1R 7R4
+1253,Ottawa,2018,10,18,NA,Twenty-sixth Annual Open Studio,Downtown/Central,951 Gladstone Avenue,951 Gladstone Avenue,K1Y 3E5
+1254,Ottawa,2018,11,10,NA,A Matter Of Spirit: A Hundred Years After the Great War,Downtown/Central,429 Parkdale Avenue,429 Parkdale Avenue,K1Y1H3
+1255,Ottawa,2018,10,23,NA,Trick or Toccata ,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1256,Ottawa,2018,10,20,NA,Veils and Cocktails,West Ottawa,170 Colonnade Rd,170 Colonnade Rd,K2E 7J5
+1257,Ottawa,2018,10,28,NA,Rattle Me Bones,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1258,Ottawa,2018,11,23,NA,The Penultimate Problem of Sherlock Holmes,Downtown/Central,910 Gladstone Street,910 Gladstone Street,K1R 6Y4
+1259,Ottawa,2018,10,13,NA,Family Fun Day,West Ottawa,110 Michael Cowpland Drive,110 Michael Cowpland Drive,K2M 1X3
+1260,Ottawa,2018,10,26,NA,Oktoberfest,West Ottawa,"102 Greenview Drive, Britannia Park","102 Greenview Drive, Britannia Park",K2B 8J8
+1261,Ottawa,2018,11,18,NA,Sky High Magic: Master Illusionist Chris Pilsworth,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1262,Ottawa,2018,11,4,NA,Music at the Museum: We Will Remember,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1263,Ottawa,2018,10,7,NA,Justin Duhaime Quartet plays the music of Django Reinhardt,Downtown/Central,750 Gladstone Ave,750 Gladstone Ave,K1R 7B1
+1264,Ottawa,2018,10,20,NA,Spark Soirée,South Ottawa,2901 Gibford Drive,2901 Gibford Drive,K1V 2L9
+1265,Ottawa,2018,10,20,NA,Ray Montford 'Share My Sky' Album Release Concert,Downtown/Central,953 Gladstone Ave.,953 Gladstone Ave.,K1Y 4W5
+1266,Ottawa,2018,10,26,NA,DrupalCamp Ottawa,Downtown/Central,800 King Edward Avenue,800 King Edward Avenue,K1N 6N5
+1267,Ottawa,2018,10,28,NA,Pumpkin Party!,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+1268,Ottawa,2018,10,20,NA,Red Trillium Studio Tour,Region Wide,-,-,K1A 0A4
+1269,Ottawa,2018,11,3,NA,Christmas in the Valley Artisan Show,Rural West,182 Bridge Street,182 Bridge Street,K0A 1A0
+1270,Ottawa,2018,10,20,NA,Galatecha,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+1271,Ottawa,2018,11,8,NA,In the Spotlight,Hull Sector,1 Casino Boulevard,1 Casino Boulevard,J8Y 6W3
+1272,Ottawa,2018,12,1,NA,Jeffrey Li,East Ottawa,70 James Street,70 James Street,K1R 5M3
+1273,Ottawa,2018,10,20,NA,FOPLA Monthly Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1274,Ottawa,2018,11,18,NA,Latin Expo 2018,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1275,Ottawa,2018,10,6,NA,Thanksgiving Weekend at the Farm,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1276,Ottawa,2018,10,20,NA,Capital Region Model Railway Tour,Region Wide,-,-,K1A 0A4
+1277,Ottawa,2018,10,12,NA,Gallemit - Thériault,Downtown/Central,202-66 Muriel Street,202-66 Muriel Street,K1S 4E1
+1278,Ottawa,2018,10,28,NA,Justin Duhaime Quartet plays the music of Django Reinhardt,Hull Sector,70 Promenade du Portage,70 Promenade du Portage,J8X 2K1
+1279,Ottawa,2018,10,20,NA,Annual Fall Bazaar,West Ottawa,740 Melfa Crescent,740 Melfa Crescent,K2C0P2
+1280,Ottawa,2018,10,18,NA,Ready for Rain Workshops,West Ottawa,411 Dovercourt Avenue,411 Dovercourt Avenue,K2A 0S9
+1281,Ottawa,2018,11,14,NA,CARP Ottawa Fall Event ,West Ottawa,1701 Woodroffe Avenue,1701 Woodroffe Avenue,K2G 1W2
+1282,Ottawa,2018,10,27,NA,Knox Annual Harvest Bazaar,Downtown/Central,120 Lisgar Street,120 Lisgar Street,K2P 0C2
+1283,Ottawa,2018,10,27,NA,Howl-o-Ween at the OHS,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+1284,Ottawa,2018,10,27,NA,Bazaar and Art Show,West Ottawa,470 Roosevelt Avenue,470 Roosevelt Avenue,K2A 1Z6
+1285,Ottawa,2018,10,23,NA,Odyssey,West Ottawa,"1701 Woodroffe Avenue, Nepean Sportsplex","1701 Woodroffe Avenue, Nepean Sportsplex",K2G 1W2
+1286,Ottawa,2018,11,5,NA,We Remember,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+1287,Ottawa,2018,11,17,NA,Bowie Lives,Rural East,132 Montreal Road,132 Montreal Road,K6H 1B3
+1288,Ottawa,2018,11,14,NA,CPAWS Soirée,Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+1289,Ottawa,2018,12,8,NA,Musical Theatre Karaoke,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+1290,Ottawa,2018,12,1,NA,Craft Studio Sale and Christmas Bazaar,Downtown/Central,670 Albert Street,670 Albert Street,K1R 6L2
+1291,Ottawa,2018,12,7,NA,Sing with Festive Cheer Christmas Concert,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+1292,Ottawa,2018,11,10,NA,St Helen's Old Fashioned Christmas Bazaar,East Ottawa,1234 Prestone Drive,1234 Prestone Drive,K1E 3X6
+1293,Ottawa,2018,11,3,NA,Black Cherry Band CD Release ,East Ottawa,245 Centrum Boulevard,245 Centrum Boulevard,K1E 0A1
+1294,Ottawa,2018,11,27,NA,Authentic Wreath Making Workshop,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1295,Ottawa,2018,11,1,NA,"CKCU Benefit Show with Sparklesaurus, leMeow and Death Metal Witch",Downtown/Central,750 Gladstone Ave,750 Gladstone Ave,K1R 7B1
+1296,Ottawa,2018,11,9,NA,ITR Theatre Presents,Rural South,5660 Main Street,5660 Main Street,K0A 2W0
+1297,Ottawa,2018,11,8,NA,"Opening Reception: Barbara Brown and Cynthia O'Brien – LifeCycle Conversations Judith Parker, curatorial collaborator",Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1298,Ottawa,2018,12,2,NA,"Artists' tour and catalogue launch: Barbara Brown and Cynthia O'Brien – LifeCycle Conversations Judith Parker, curatorial collaborator",Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1299,Ottawa,2018,11,20,NA,Great Big smalls XIV,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1300,Ottawa,2019,1,6,NA,"Curatorial Talk: Barbara Brown and Cynthia O'Brien – LifeCycle Conversations Judith Parker, curatorial collaborator",Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1301,Ottawa,2018,12,1,NA,Holidays for Hope,West Ottawa,1385 Woodroffe Avenue,1385 Woodroffe Avenue,K2G 1V8
+1302,Ottawa,2019,4,25,NA,Young At Art: Trinity Art Gallery,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1303,Ottawa,2019,4,18,NA,Young At Art: Kanata Civic Art Gallery,West Ottawa,2500 Campeau Drive,2500 Campeau Drive,k2k 2w3
+1304,Ottawa,2019,4,20,NA,Young At Art: Atrium Art Gallery,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G5K9
+1305,Ottawa,2018,11,9,NA,260 Fingers,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+1306,Ottawa,2018,11,14,NA,Ottawa Canada-China Film festival,Downtown/Central,325 Rideau Street,325 Rideau Street,K1N 5Y4
+1307,Ottawa,2018,12,1,NA,"Ginny, Casa Lagarto, Bitter North",Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+1308,Ottawa,2018,11,22,NA,Ottawa LIVERight Gala,East Ottawa,200 Coventry Road,200 Coventry Road,K1K 4S3
+1309,Ottawa,2018,1,25,NA,Ben Heppner and Toronto Mass Choir,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1310,Ottawa,2019,2,9,NA,Kick It: A Dance Club for Kids,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1311,Ottawa,2019,2,12,NA,The Debaters,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1312,Ottawa,2019,2,16,NA,Emily Brown and The Thing,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1313,Ottawa,2019,2,22,NA,Made in Cuba: Lizt Alfonso Dance Cuba,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1314,Ottawa,2019,2,27,NA,Scott Bradlee's Postmodern Jukebox,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1315,Ottawa,2019,2,28,NA,Roch Voisine,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1316,Ottawa,2019,3,2,NA,Matthew Good,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1317,Ottawa,2019,3,10,NA,Tea With A Twist of Opera,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1318,Ottawa,2019,3,28,NA,Erth's Prehistoric Aquarium Adventure,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1319,Ottawa,2019,4,2,NA,Lisa Brokop Presents: Legendary Ladies of Country Featuring Patricia Conroy & Amanda Wilkinson,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1320,Ottawa,2019,4,14,NA,Tea With a Mix of Musicians' Picks,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1321,Ottawa,2019,2,22,NA,Sing Out for CHEO,East Ottawa,1211 Lemieux St.,1211 Lemieux St.,K1J 7T1
+1322,Ottawa,2018,11,10,NA,Close to You: Celebrating the Music of the Carpenters,Rural South,100 Saint Lawrence Street,100 Saint Lawrence Street,K0G 1N0
+1323,Ottawa,2018,12,13,NA,Opening Reception: Kaleidoscope - 2018 Additions to the City of Ottawa Art Collection,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1324,Ottawa,2018,12,6,NA,Kaleidoscope - 2018 Additions to the City of Ottawa Art Collection,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1325,Ottawa,2018,11,11,NA,Gatineau Reptile Expo,Region Wide,N/A,N/A,NA
+1326,Ottawa,2018,11,9,NA,Warp,Downtown/Central,202-66 Muriel Street,202-66 Muriel Street,K1S 4E1
+1327,Ottawa,2018,11,15,NA,Familiar - Erin Robertson ,Downtown/Central,13 Murray St.,13 Murray St.,K1N 9M5
+1328,Ottawa,2018,11,24,NA,Kanata Art Club Christmas $100 and Under Sale,West Ottawa,630 Cameron Harvey Drive,630 Cameron Harvey Drive,K2K 1X7
+1329,Ottawa,2018,11,19,NA,Forum Lecture: The Small Architectural Practice,Downtown/Central,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+1330,Ottawa,2018,11,24,NA,"A ""Gift of Art"" Fine Art Show and Sale",East Ottawa,210 Blackburn avenue,210 Blackburn avenue,K1N 8A8
+1331,Ottawa,2018,11,17,NA,Friends of the Ottawa Public Library Mammoth Book Sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1332,Ottawa,2018,11,18,NA,Kanata Symphony Orchestra O-Train Ball,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+1333,Ottawa,2019,3,2,NA,Kidsfest Ottawa,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+1334,Ottawa,2018,11,28,NA,Sneezy Waters and Vince Halfhide,East Ottawa,70 James Street,70 James Street,K1R 5M3
+1335,Ottawa,2018,11,17,NA,Annual Research Forum in Gatineau Park,Gatineau Park/Chelsea,33 Scott Road,33 Scott Road,NA
+1336,Ottawa,2018,11,28,NA,Come and meet the 2018 Governor General’s Literary Award winners,Downtown/Central,150 Elgin Street,150 Elgin Street,K1P 5V8
+1337,Ottawa,2018,11,18,NA,Ottawa Youth Orchestra Concert,Downtown/Central,310 St. Patrick Street,310 St. Patrick Street,K1N 5K5
+1338,Ottawa,2018,12,16,NA,"A World of Carols, Cantiamo Choirs of Ottawa Concert",West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+1339,Ottawa,2018,12,9,NA,Holidays at The Parks,West Ottawa,401 Corkstown Road,401 Corkstown Road,K2H 8T1
+1340,Ottawa,2018,11,16,NA,Parfocal Lens: Fabricated Visions,Downtown/Central,77 Pamilla Street,77 Pamilla Street,K1S 3K7
+1341,Ottawa,2018,11,17,NA,Meadowlands Public School Craft and Vendor Fair ,West Ottawa,10 Fieldrow Street,10 Fieldrow Street,K2G 2Y7
+1342,Ottawa,2018,11,18,NA,BAPS Diwali and Annakut Celebration,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+1343,Ottawa,2018,12,7,NA,"Vernissage: Something old, something new",East Ottawa,6600 Carrière Street,6600 Carrière Street,K1C 1J4
+1344,Ottawa,2018,11,16,NA,Much Ado About Nothing,South Ottawa,1125 Colonel By Drive,1125 Colonel By Drive,K1S 5B6
+1345,Ottawa,2018,12,2,NA,Vernissage,Downtown/Central,290 City Centre Avenue,290 City Centre Avenue,K1R 7R7
+1346,Ottawa,2018,12,1,NA,Fisher Park Christmas Craft Market ,Downtown/Central,250 Holland Avenue,250 Holland Avenue,K1Y 0Y6
+1347,Ottawa,2018,12,2,NA,Home for Christmas,Rural South,16 Centre Street,16 Centre Street,K0E 1X0
+1348,Ottawa,2018,11,25,NA,Tree of Life Candlelight Remembrance,Downtown/Central,280 Beechwood Ave,280 Beechwood Ave,K1L 8E2
+1349,Ottawa,2018,11,30,NA,Vintage Village of Lights,Rural East,2940 Old Montreal Road,2940 Old Montreal Road,K4C 1G3
+1350,Ottawa,2018,12,1,NA,Elves at the Estate,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1351,Ottawa,2018,12,8,NA,Fairfields Kidsmas,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1352,Ottawa,2018,12,8,NA,Fairfields Victorian Christmas,West Ottawa,3080 Richmond Road,3080 Richmond Road,K2B 7J5
+1353,Ottawa,2018,12,15,NA,Nepean Christmas Celebration,West Ottawa,16 Rowley Avenue,16 Rowley Avenue,K2G 1L9
+1354,Ottawa,2019,2,19,NA,Heritage Day,Downtown/Central,"110, Laurier street West","110, Laurier street West",K1P 1J1
+1355,Ottawa,2018,12,8,NA,Wakefield Christmas Market,Gatineau Park/Chelsea,38 Valley Drive,38 Valley Drive,J0X 3G0
+1356,Ottawa,2019,2,8,NA,Strum,Hull Sector,1 Casino Boulevard,1 Casino Boulevard,J8Y 6W3
+1357,Ottawa,2018,11,30,NA,TOK Ottawa Symposium,Region Wide,-,-,K1A 0A4
+1358,Ottawa,2018,12,8,NA,Winter Wonderland Vintage Pop-up,West Ottawa,389 Richmond Road,389 Richmond Road,K2A 0E7
+1359,Ottawa,2018,11,29,NA,No Man's Land: The Art of Mary Riter Hamilton,Downtown/Central,395 Wellington Street,395 Wellington Street,K1A0N4
+1360,Ottawa,2018,12,2,NA,The Peace of Christmas,Downtown/Central,2345 Alta Vista Drive,2345 Alta Vista Drive,K1H 7M6
+1361,Ottawa,2018,11,25,NA,Achromatically Inclined Opening Reception,East Ottawa,"245, Centrum Blvd","245, Centrum Blvd",K1E 0A1
+1362,Ottawa,2018,12,15,NA,Sound the Trumpet,West Ottawa,20 Young Road,20 Young Road,K2L 1W1
+1363,Ottawa,2018,12,8,NA,Ottawa Carleton Choristers' Chsitmas Concert,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+1364,Ottawa,2018,11,30,NA,A Noteworthy Woman,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+1365,Ottawa,2018,12,1,NA,Legend and Legacy: Featuring music of Mozart and Bernstein,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+1366,Ottawa,2019,2,15,NA,The Ottawa Bachata Festival 2019,West Ottawa,1000 Byron Ave,1000 Byron Ave,K2A 0J3
+1367,Ottawa,2018,12,1,NA,OHS Critter Christmas Family Event,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+1368,Ottawa,2018,11,30,NA,Overbrook Diary,Downtown/Central,815 Saint Laurent Boulevard,815 Saint Laurent Boulevard,K1K 3A7
+1369,Ottawa,2018,12,8,NA,Children's Books for Socially Conscious Reading,West Ottawa,347 Richmond Road,347 Richmond Road,K2A 0E7
+1370,Ottawa,2018,12,1,NA,Momo Spot Pop-Up Restaurant III,Downtown/Central,473 Albert Street,473 Albert Street,K1R 7X3
+1371,Ottawa,2018,12,15,NA,Sleigh Bells Ring!,Downtown/Central,429 Parkdale Avenue,429 Parkdale Avenue,K1Y1H3
+1372,Ottawa,2018,12,8,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1373,Ottawa,2018,12,2,NA,Propeller Dance Community Day 2018,Downtown/Central,175 Third Avenue,175 Third Avenue,K1S 2K1
+1374,Ottawa,2018,11,27,NA,The Common Cinema,Downtown/Central,2 Daly Avenue,2 Daly Avenue,K1N 6E2
+1375,Ottawa,2018,12,8,NA,Our Winter Songs for You,Downtown/Central,140 Laurier Avenue West,140 Laurier Avenue West,K1N 6N6
+1376,Ottawa,2018,12,26,NA,Boxing Day Comedy Blowout!,Downtown/Central,292 Elgin Street,292 Elgin Street,K2P 1M3
+1377,Ottawa,2019,1,19,NA,Like A Boss EP Release ,Downtown/Central,220 Elgin Street,220 Elgin Street,K2P 1L7
+1378,Ottawa,2018,12,18,NA,Orkidstra Holiday Concert,Downtown/Central,211 Bronson Avenue,211 Bronson Avenue,K1R6H4
+1379,Ottawa,2018,12,16,NA,Spectacle du Choeur Pleinchant : De nouvelles couleurs de Noël,East Ottawa,1111 Orleans Boulevard,1111 Orleans Boulevard,K1C 7C8
+1380,Ottawa,2018,12,1,NA,Stanley's Country Christmas Craft Fair,Rural South,2452 York's Corners Road,2452 York's Corners Road,K0A 1V0
+1381,Ottawa,2018,12,29,NA,Singalong Sound of Music,South Ottawa,1074 Bank Street,1074 Bank Street,K1S 3X3
+1382,Ottawa,2018,12,7,NA,Ottawa Showcase Volume 2,Downtown/Central,317 Wilbrod Street,317 Wilbrod Street,K1N 6M3
+1383,Ottawa,2019,1,5,NA,Justin Duhaime Quartet featuring Jason Anick,Downtown/Central,885 Bank Street,885 Bank Street,K1S 3W4
+1384,Ottawa,2018,12,6,NA,The Art of Gingerbread,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1385,Ottawa,2018,12,12,NA,Family Gingerbread House Contest,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1386,Ottawa,2018,11,9,NA,Moving Stories Exhibition,East Ottawa,1867 St. Laurent Boulevard,1867 St. Laurent Boulevard,K1G 5A3
+1387,Ottawa,2018,12,21,NA,The Music of Star Wars,West Ottawa,101 Centrepointe Drive,101 Centrepointe Drive,K2G 5K7
+1388,Ottawa,2019,2,1,NA,Winterlude,Region Wide,-,-,K1A 0A4
+1389,Ottawa,2018,12,15,NA,Stars with NAC Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1390,Ottawa,2018,12,16,NA,Natalie MacMaster and Donnel Leahy: a Celtic Family Christmas,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1391,Ottawa,2018,12,20,NA,Christmas with Matt Andersen,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1392,Ottawa,2018,12,21,NA,Johnny Reid: Home for the Holidays with the NAC Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1393,Ottawa,2019,1,19,NA,Patrick Watson with the NAC Orchestra,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1394,Ottawa,2019,2,16,NA,Choir! Choir! Choir!,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1395,Ottawa,2019,2,22,NA,"A musical tribute We Love Belafonte featuring Alex Cuba, David Myles, Florence K and Katie Moore",Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1396,Ottawa,2019,2,23,NA,Blue Rodeo,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1397,Ottawa,2019,3,9,NA,Leahy,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1398,Ottawa,2019,4,10,NA,Ben Caplan,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1399,Ottawa,2019,5,23,NA,Rufus Wainwright,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1400,Ottawa,2019,5,30,NA,Bobby Bazini,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1401,Ottawa,2019,9,28,NA,Raffi,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1402,Ottawa,2019,10,12,NA,Robert Charlebois,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1403,Ottawa,2018,12,18,NA,Sultans of String Christmas Caravan with special guests Rebecca Campbell and Kellylee Evans,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1404,Ottawa,2018,12,21,NA,The Christmas List - Le Trio BBQ and Le quatuor Vox A4,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1405,Ottawa,2019,1,18,NA,Rant Maggie Rant,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1406,Ottawa,2019,2,7,NA,Doc Walker,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1407,Ottawa,2019,2,23,NA,Hillsburn,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1408,Ottawa,2019,3,22,NA,Alexandra Stréliski,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1409,Ottawa,2019,3,24,NA,Dave Gunning,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1410,Ottawa,2019,3,29,NA,Le Vent du Nord,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1411,Ottawa,2019,3,30,NA,Doug Paisley,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1412,Ottawa,2019,4,5,NA,Amanda Martinez,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1413,Ottawa,2019,4,7,NA,The Ennis Sisters,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1414,Ottawa,2019,4,16,NA,Lennie Gallant,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1415,Ottawa,2019,5,1,NA,Steven Page,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1416,Ottawa,2019,1,25,NA,Kallitechnis,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1417,Ottawa,2019,1,26,NA,Antoine Corriveau,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1418,Ottawa,2019,2,1,NA,Nomad'Stones,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1419,Ottawa,2019,2,2,NA,Outside I'm A Giant,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1420,Ottawa,2019,2,16,NA,Amanda Rheaume,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1421,Ottawa,2019,3,19,NA,Florian Hoefner Trio,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1422,Ottawa,2019,2,21,NA,Joseph Edgar,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1423,Ottawa,2019,2,22,NA,Ryan Cook,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1424,Ottawa,2019,3,22,NA,Noah Derksen,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1425,Ottawa,2019,3,28,NA,Gentiane MG Trio,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1426,Ottawa,2019,3,29,NA,Megan Bonnell,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1427,Ottawa,2019,3,30,NA,Diyet and The Love Soldiers,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1428,Ottawa,2019,4,5,NA,Amos the Transparent,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1429,Ottawa,2019,4,12,NA,Ellen Doty,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1430,Ottawa,2019,4,18,NA,Don Brownrigg and Kim Harris,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1431,Ottawa,2019,5,3,NA,Pierre Guitard,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1432,Ottawa,2019,1,7,NA,"National Urban Design Awards, Ceremony and presentation",Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+1433,Ottawa,2019,1,14,NA,Le motton #1,Downtown/Central,555 Somerset Street West,555 Somerset Street West,K1R 5K1
+1434,Ottawa,2019,3,1,NA,Savour the Moment,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1435,Ottawa,2019,1,18,NA,Resolution 2019,Downtown/Central,50 Mackenzie King Bridge,50 Mackenzie King Bridge,K1N 0C5
+1436,Ottawa,2019,1,27,NA,Fête de l'Amitié: Spectacle en soutien aux réfugiés syriens,Gatineau Park/Chelsea,333 Boulevard de la Cité-des-Jeunes,333 Boulevard de la Cité-des-Jeunes,J8Y 6M4
+1437,Ottawa,2019,1,17,NA,The Ottawa Home and Remodelling Show,South Ottawa,4899 Uplands Drive,4899 Uplands Drive,K1V 2N6
+1438,Ottawa,2019,1,26,NA,Steve's 1926 Ottawa Skate,Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1439,Ottawa,2019,1,19,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1440,Ottawa,2019,1,24,NA,Food for Thought Lecture Series: A year in the life of a small-scale sheep dairy,Downtown/Central,901 Prince of Wales Drive,901 Prince of Wales Drive,K2C 3K1
+1441,Ottawa,2019,2,7,NA,Opening: Fiona Annis - Mormorii (Murmurs),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1442,Ottawa,2019,2,8,NA,Artist Talk: Fiona Annis - Mormorii (Murmurs),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1443,Ottawa,2019,1,25,NA,Fiona Annis – Mormorii (Murmurs),Downtown/Central,110 Laurier Avenue West,110 Laurier Avenue West,K1P 1J1
+1444,Ottawa,2019,1,15,NA,Compendium,Downtown/Central,1285 Wellington Street West,1285 Wellington Street West,K1Y 1B4
+1445,Ottawa,2019,2,7,NA,Nathalie Quagliotto - Safety Measures,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1446,Ottawa,2019,2,7,NA,Opening: Nathalie Quagliotto - Safety Measures,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1447,Ottawa,2019,4,7,NA,Artist talk: Nathalie Quagliotto - Safety Measures,Downtown/Central,"110 Laurier Avenue, West","110 Laurier Avenue, West",K1P 1J1
+1448,Ottawa,2019,2,6,NA,One Thing Leads to Another,Downtown/Central,1233 Wellington St. West,1233 Wellington St. West,K1Y 0G7
+1449,Ottawa,2019,2,9,NA,My Furry Valentine Family Event,South Ottawa,245 West Hunt Club Rd.,245 West Hunt Club Rd.,K2E 1A6
+1450,Ottawa,2019,2,18,NA,Sky High Magic - The Magic of Majinx!,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1451,Ottawa,2019,2,3,NA,Music at the Museum - Curtains Up!,East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
+1452,Ottawa,2019,1,26,NA,Stars and Seas: Stories and songs from far and away,West Ottawa,430 Churchill Ave.,430 Churchill Ave.,K1Z 5C9
+1453,Ottawa,2019,1,24,NA,INcarcinoma: A Poetic Outline Pop Up Show,Downtown/Central,555 Somerset Street West,555 Somerset Street West,K1R 5K1
+1454,Ottawa,2019,2,2,NA,Capital Catwalk 2019,Downtown/Central,1000 Exhibition Way,1000 Exhibition Way,K1S 5J3
+1455,Ottawa,2019,3,2,NA,Eight Decades of Fashion,West Ottawa,207 Woodroffe Avenue,207 Woodroffe Avenue,K2A 3V1
+1456,Ottawa,2019,3,30,NA,The Spring Ottawa Craft Show,West Ottawa,170 Colonnade Rd,170 Colonnade Rd,K2E 7J5
+1457,Ottawa,2019,2,2,NA,Mid-Winter Challenge,South Ottawa,2100 Cabot St.,2100 Cabot St.,K1H 6K1
+1458,Ottawa,2019,2,3,NA,The Passing of Time: Music for Oboe and Piano,Downtown/Central,650 Lyon Street South,650 Lyon Street South,K1S 3Z7
+1459,Ottawa,2019,2,7,NA,Claire Hunter Live,Downtown/Central,"135 1/2, Besserer Street","135 1/2, Besserer Street",K1N 6A7
+1460,Ottawa,2019,1,30,NA,Nuit des idées - Les migrations climatiques,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+1461,Ottawa,2019,2,2,NA,Winterlude at the Bank of Canada Museum,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+1462,Ottawa,2019,2,5,NA,Canada Cares: International Development Week 2019 ,Downtown/Central,53 Elgin Street,53 Elgin Street,K1P 5W1
+1463,Ottawa,2019,2,16,NA,Atomic Love - A Touring Wine and Cheese Tasting,Rural West,"3911 Carp Road, RR1","3911 Carp Road, RR1",K0A 1L0
+1464,Ottawa,2019,2,16,NA,Maple tree tapping and opening of the Sugar Shack,Downtown/Central,300 des Pères-Blancs Avenue,300 des Pères-Blancs Avenue,K1L 7L5
+1465,Ottawa,2019,2,9,NA,FOPLA Mammoth Book sale,West Ottawa,100 Tallwood Drive,100 Tallwood Drive,K2G 4R7
+1466,Ottawa,2019,3,8,NA,Exhibition - Heroines,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+1467,Ottawa,2019,3,8,NA,Meeting with JC Deveney,Downtown/Central,352 MacLaren Street,352 MacLaren Street,K2P 0M6
+1468,Ottawa,2019,3,2,NA,March Break at the Museums,Region Wide,-,-,K1A 0A4
+1469,Ottawa,2019,3,1,NA,March Break at the Bank of Canada Museum,Downtown/Central,30 Bank Street,30 Bank Street,K1A 0G9
+1470,Ottawa,2019,3,16,NA,St. Patrick's Day Concert,Gatineau Park/Chelsea,32 Chemin River,32 Chemin River,J8V 3A1
+1471,Ottawa,2019,3,10,NA,"Sky High Magic Series: ""A Magic Explosion"" with Erick Elektrik",East Ottawa,11 Aviation Parkway,11 Aviation Parkway,K1K 4R3
